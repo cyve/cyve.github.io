@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /
+Disallow: /bin/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /images/
+Disallow: /js/
+Disallow: /videos/
