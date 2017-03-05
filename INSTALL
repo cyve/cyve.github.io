@@ -1,0 +1,9 @@
+# Installation
+
+npm install -g resume-cli
+resume export resume.html --theme fr_flat
+resume export markdown.html --theme markdown
+php bin/formatmd.php
+resume publish --theme fr_flat
+
+See resume at https://registry.jsonresume.org/cyve

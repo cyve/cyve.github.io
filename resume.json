@@ -1,0 +1,341 @@
+{
+  "basics": {
+    "name": "Cyril Vermandé",
+    "label": "Développeur web full-stack freelance",
+    "picture": "https://avatars1.githubusercontent.com/u/3588995",
+    "email": "cyril [AT] cyrilwebdesign.com",
+    "website": "http://www.cyrilwebdesign.com",
+    "summary": "Je suis ingénieur web full stack freelance basé en Ile-de-France. Lors de mes précédentes missions, j'ai eu l'occasion de développer des applications web multimédia, de concevoir des outils de gestion, et de travailler avec des CMS. Je recherche des missions de développement web de courte durée (6 mois maximum), car je souhaite consacrer du temps à mes projets parallèles.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Versailles",
+      "countryCode": "FR",
+      "region": "Ile-de-France"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": "https://www.linkedin.com/in/cyrilvermande"
+      },
+      {
+        "network": "Github",
+        "username": "",
+        "url": "https://github.com/cyve"
+      },
+      {
+        "network": "Codepen",
+        "username": "",
+        "url": "https://codepen.io/cyve/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Le Son du coin",
+      "position": "Fondateur / développeur lead",
+      "website": "http://www.sonducoin.fr",
+      "startDate": "2012",
+      "endDate": "En cours",
+      "summary": "Le Son du coin est une plateforme de streaming 100% locale dédiée aux artistes indépendants d’Ile-de-France. L’écoute est gratuite et sans publicité audio. L’inscription est accessible aux artistes de tous styles et de tous niveaux. Le Son du coin met l’accent sur la géolocalisation des artistes par ville et sur leurs relations avec les structures locales, afin de faire une suggestion musicale pertinente aux visiteurs. Il permet de créer le lien manquant entre le web et le terrain où évoluent les artistes au quotidien.",
+      "highlights": [
+        "Développement de la plateforme",
+        "Stratégie et communication"
+      ]
+    },
+    {
+      "company": "Muzrs",
+      "position": "Développeur lead",
+      "website": "http://muzrs.com",
+      "startDate": "2015",
+      "endDate": "En cours",
+      "summary": "Muzrs est une plateforme collaborative musicale.",
+      "highlights": [
+        "Développement de la plateforme avec Drupal"
+      ]
+    },
+    {
+      "company": "Bouygues Télécom",
+      "position": "Développeur PHP Symfony 2",
+      "website": "https://www.bouyguestelecom.fr",
+      "startDate": "2015",
+      "endDate": "2016",
+      "summary": "",
+      "highlights": [
+        "Développement de l'espace commercial (devis et collecte des données clients entreprise) avec Symfony 2",
+        "Méthodologie Agile"
+      ]
+    },
+    {
+      "company": "Cisco",
+      "position": "Développeur Node.js",
+      "website": "http://www.cisco.com",
+      "startDate": "2014",
+      "endDate": "2014",
+      "summary": "",
+      "highlights": [
+        "Développement d'une API REST hypermedia et d'outils de test",
+        "Méthodologie Agile"
+      ]
+    },
+    {
+      "company": "Parrot",
+      "position": "Développeur web full stack",
+      "website": "http://www.parrot.com",
+      "startDate": "2012",
+      "endDate": "2013",
+      "summary": "",
+      "highlights": [
+        "Conception et développement d'une interface web de gestion de base de données"
+      ]
+    },
+    {
+      "company": "Netgem",
+      "position": "Développeur JavaScript",
+      "website": "http://www.netgem.com",
+      "startDate": "2011",
+      "endDate": "2012",
+      "summary": "",
+      "highlights": [
+        "Développement d'interface multimédia pour set-top box"
+      ]
+    },
+    {
+      "company": "Vianeos",
+      "position": "Développeur web fullstack",
+      "website": "http://www.vianeos.com",
+      "startDate": "2007",
+      "endDate": "2010",
+      "summary": "",
+      "highlights": [
+        "Conception et développement d'une interface multimédia pour set-top box",
+        "Recette et déploiement de l'application",
+        "Support client"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Universailles Musiques",
+      "position": "Président",
+      "website": "http://www.universailles.fr",
+      "startDate": "2008",
+      "endDate": "2015",
+      "summary": "Organisation de concerts/festivals à Versailles (78) et accompagnement d'artistes émergents.",
+      "highlights": []
+    },
+    {
+      "organization": "La Salamandre",
+      "position": "Vice-président",
+      "website": "http://www.mjcdelavallee.fr",
+      "startDate": "2008",
+      "endDate": "2015",
+      "summary": "Salle de concerts associative à Chaville (92), studios de répétition, accompagnement d'artiste émergents.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ecole Centrale d’Electronique (Paris)",
+      "area": "Ingénieur en systèmes embarqués",
+      "studyType": "",
+      "startDate": "2004",
+      "endDate": "2007",
+      "gpa": "",
+      "courses": [
+        "Informatique embarquée",
+        "Audiovisuel et médias numériques",
+        "Biométrie"
+      ]
+    },
+    {
+      "institution": "University of California, Irvine (USA)",
+      "area": "Global Management and Manufacturing Program",
+      "studyType": "",
+      "startDate": "2006",
+      "endDate": "2006",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Conservatoire national des arts et métiers (Paris)",
+      "area": "UV Génie Logiciel (GLG105E)",
+      "studyType": "",
+      "startDate": "2006",
+      "endDate": "2006",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Université Paris-Sud 11 (Orsay, 91)",
+      "area": "DEUG MIAS",
+      "studyType": "Equivalence (CPGE)",
+      "startDate": "2002",
+      "endDate": "2004",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Lycée Jules Ferry (Versailles, 78)",
+      "area": "CPGE PT",
+      "studyType": "Maths sup/spé",
+      "startDate": "2002",
+      "endDate": "2004",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Lycée Vilgénis (Massy, 91)",
+      "area": "Baccalauréat Scientifique",
+      "studyType": "option Sciences de l’Ingénieur",
+      "startDate": "1999",
+      "endDate": "2002",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Développement backend",
+      "level": "",
+      "keywords": [
+		"PHP",
+        "Symfony 2",
+        "MySQL",
+		"Node.JS",
+		"REST"
+      ]
+    },
+    {
+      "name": "Développement frontend",
+      "level": "",
+      "keywords": [
+        "JavaScript",
+        "jQuery",
+        "HTML",
+        "CSS",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Environnement technique",
+      "level": "",
+      "keywords": [
+        "LAMP",
+        "Intégration/déploiement continu",
+		"Git"
+      ]
+    },
+    {
+      "name": "Gestion de projet",
+      "level": "",
+      "keywords": [
+        "Méthodologie agile",
+        "Jira",
+        "Redmine"
+      ]
+    },
+    {
+      "name": "Webdesign",
+      "level": "",
+      "keywords": [
+        "Wordpress",
+        "Responsive design",
+        "SEO"
+      ]
+    },
+    {
+      "name": "Streaming/IPTV",
+      "level": "",
+      "keywords": [
+        "Set-top box",
+        "Gateway IP",
+		"VoD"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": ""
+    },
+    {
+      "language": "Anglais",
+      "fluency": "Technique"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Musique",
+      "keywords": [
+        "Industrie musicale",
+        "Concerts/festivals"
+      ]
+    },
+    {
+      "name": "Entreprenariat",
+      "keywords": []
+    },
+    {
+      "name": "Jeux de rôle",
+      "keywords": []
+    },
+    {
+      "name": "Multimédia numérique",
+      "keywords": []
+    }
+  ],
+  "references": [
+    {
+      "name": "Bouygues Telecom",
+      "reference": "",
+      "logo": "https://cyve.github.io/images/references/bouygues-telecom.jpg",
+	  "website": "http://www.bouyguestelecom.fr/"
+    },
+    {
+      "name": "Smile",
+      "reference": "",
+      "logo": "https://cyve.github.io/images/references/smile.jpg",
+	  "website": "http://www.smile.fr/"
+    },
+    {
+      "name": "Cisco",
+      "reference": "",
+      "logo": "https://cyve.github.io/images/references/cisco.jpg",
+	  "website": "http://www.cisco.fr/"
+    },
+    {
+      "name": "Parrot",
+      "reference": "",
+      "logo": "https://cyve.github.io/images/references/parrot.jpg",
+	  "website": "https://www.parrot.com/"
+    },
+    {
+      "name": "Altim",
+      "reference": "",
+      "logo": "https://cyve.github.io/images/references/altim.jpg",
+	  "website": "https://www.altim-consulting.com/"
+    },
+    {
+      "name": "Muzrs",
+      "reference": "",
+      "logo": "https://cyve.github.io/images/references/muzrs.jpg",
+	  "website": "http://www.muzrs.com/"
+    },
+    {
+      "name": "Le RIF",
+      "reference": "",
+      "logo": "https://cyve.github.io/images/references/lerif.jpg",
+	  "website": "https://www.lerif.org/"
+    },
+    {
+      "name": "Le CRY",
+      "reference": "",
+      "logo": "https://cyve.github.io/images/references/lecry.jpg",
+	  "website": "http://www.lecry.com/"
+    }
+  ]
+}
