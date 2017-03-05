@@ -4,7 +4,7 @@
  */
 
 (function(){
-	$.getJSON('https://raw.githubusercontent.com/cyve/resume/master/resume.json', function(response){
+	$.getJSON('resume.json', function(response){
 		/* summary */
 		$('#summary').prepend(response.basics.summary);
 		
