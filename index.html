@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<title>Cyril Vermandé, développeur web freelance - PHP, JavaScript, HTML, CSS, Symfony, Wordpress</title>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="icon" href="favicon.png" type="image/png" />
+		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+	</head>
+	<body>
+				<div class="cover">
+					<video autoplay loop class="video">
+						<source src="videos/background.mp4" type="video/mp4">
+						<source src="videos/background.webm" type="video/webm">
+						<source src="videos/background.ogv" type="video/ogv">
+					</video>
+				</div>
+			<header>
+				<nav>
+					<ul>
+						<li><a href="#skills">Compétences</a></li>
+						<li><a href="#timeline">Timeline</a></li>
+						<li><a href="#references">Références</a></li>
+					</ul>
+				</nav>
+				<div>
+					<h1>Cyril Vermandé</h1>
+					<p>Développeur web freelance</p>
+					<p><small><i class="fa fa-map-marker fa-fw"></i> Paris / Ile-de-France</small></p>
+				</div>
+				<p class="top-link">
+					<i class="fa fa-chevron-down"></i>
+				</p>
+			</header>
+			
+		<div class="page">
+			<section id="summary" class="summary">
+				<p class="center"><a href="#" data-email="email" class="btn"><i class="fa fa-envelope fa-fw"></i> Contactez-moi</a></p>
+			</section>
+			
+			<div class="bg-fixed" style="background-image:url(images/code.jpg);"></div>
+			
+			<h2>Compétences</h2>
+			<section id="skills" class="skills"></section>
+			<p class="top-link">
+				<a href="#"><i class="fa fa-chevron-up"></i></a>
+			</p>
+			
+			<div class="bg-fixed" style="background-image:url(images/devices.jpg);"></div>
+			
+			<h2>Expérience</h2>
+			<section id="experience" class="experience"></section>
+			
+			<h2>Formation</h2>
+			<section id="education" class="education"></section>
+			<p class="top-link">
+				<a href="#"><i class="fa fa-chevron-up"></i></a>
+			</p>
+			
+			<div class="bg-fixed" style="background-image:url(images/meeting.jpg);"></div>
+			
+			<h2>Références</h2>
+			<section id="references" class="references"></section>
+			<p class="top-link">
+				<a href="#"><i class="fa fa-chevron-up"></i></a>
+			</p>
+			
+			<footer>
+				<ul>
+					<li><a href="#" title="Contactez-moi" data-email="email"><i class="fa fa-envelope fa-lg"></i></a></li>
+					<li><a href="https://www.linkedin.com/in/cyrilvermande/" title="Rejoignez-moi sur LinkedIn" target="_blank"><i class="fa fa-linkedin fa-lg"></i></a></li>
+					<li><a href="https://github.com/cyve/" title="Mes contributions sur Github" target="_blank"><i class="fa fa-github fa-lg"></i></a></li>
+					<li><a href="https://codepen.io/cyve/" title="Mes contributions sur Codepen" target="_blank"><i class="fa fa-codepen fa-lg"></i></a></li>
+				</ul>
+				<p><small>Tous droits réservés 2017 Cyril Vermandé</small></p>
+			</footer>
+		</div>
+		
+		<script type="text/javascript" src="js/jquery.min.js"></script>
+		<script type="text/javascript" src="js/script.js"></script>
+		<script id="experience-template" type="text/x-template">
+			<article class="bloc experience">
+				<span class="disk">{{ year }}</span>
+				<h3>{{ position }}</h3>
+				<h4><a href="{{ website }}">{{ company }}</a></h4>
+				<p>{{ summary }}</p>
+				<ul>{{ highlights }}</ul>
+			</article>
+		</script>
+		<script id="skill-template" type="text/x-template">
+			<article class="bloc skill">
+				<span class="disk"><i class="fa"></i></span>
+				<h3>{{ name }}</h3>
+				<ul>{{ keywords }}</ul>
+			</article>
+		</script>
+		<script id="reference-template" type="text/x-template">
+			<article class="reference">
+				<a href="{{ website }}" target="_blank"><img src="{{ logo }}" alt="{{ name }}" width="150" height="100"></a>
+			</article>
+		</script>
+	</body>
+</html>
