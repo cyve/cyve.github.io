@@ -31,12 +31,12 @@ a,a:visited { color:inherit; }
 .top-link { text-align:center; }
 .btn { padding:5px 10px; border:2px solid #000; text-decoration:none; font-weight:bold; }
 
-header { position:relative; z-index:1; display:flex; flex-direction:column; height:100%; padding:0; color:#FFF; text-align:center; }
-header > nav { display:none; }
-header > nav.fixed { position:fixed; z-index:10; width:100%; background-color:#111; }
-header > nav > ul { display:flex; justify-content:space-around; max-width:1020px; margin:10px auto; padding:0; list-style:none; }
-header > nav > ul > li a { text-decoration:none; }
-header > div { flex:1; display:flex; flex-direction:column; justify-content:center; }
+header { position:relative; z-index:1; display:flex; justify-content:center; align-items:center; height:100%; color:#FFF; }
+header div { margin:0 30px; }
+header div > img { width:160px; height:160px; border:5px solid #FFF; border-radius:80px; }
+header div > p { font-size:1.2em; }
+header div > p > span { background-color: #000; }
+header .top-link { position:absolute; bottom:0; left:50%; }
 
 h2,
 section { max-width:1040px; margin:50px auto; padding:0 20px; }
