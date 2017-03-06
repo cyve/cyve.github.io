@@ -50,9 +50,10 @@
       "website": "http://muzrs.com",
       "startDate": "2015",
       "endDate": "En cours",
-      "summary": "Muzrs est une plateforme collaborative musicale.",
+      "summary": "Muzrs est une plateforme collaborative qui met en relation des musiciens indépendants avec des professionnels (graphiqtes, réalisateurs, scénographes, webdesigner, etc.)",
       "highlights": [
-        "Développement de la plateforme avec Drupal"
+        "Développement d'une version bêta avec Drupal, puis conception de la plateforme avec Symfony 2",
+        "Architecture logicielle et conception technique"
       ]
     },
     {
@@ -87,7 +88,7 @@
       "endDate": "2013",
       "summary": "",
       "highlights": [
-        "Conception et développement d'une interface web de gestion de base de données"
+        "Conception et développement d'une interface web d'affichage de données"
       ]
     },
     {
@@ -292,49 +293,49 @@
     {
       "name": "Bouygues Telecom",
       "reference": "",
-      "logo": "https://cyve.github.io/images/references/bouygues-telecom.jpg",
+      "logo": "images/references/bouygues-telecom.jpg",
 	  "website": "http://www.bouyguestelecom.fr/"
     },
     {
       "name": "Smile",
       "reference": "",
-      "logo": "https://cyve.github.io/images/references/smile.jpg",
+      "logo": "images/references/smile.jpg",
 	  "website": "http://www.smile.fr/"
     },
     {
       "name": "Cisco",
       "reference": "",
-      "logo": "https://cyve.github.io/images/references/cisco.jpg",
+      "logo": "images/references/cisco.jpg",
 	  "website": "http://www.cisco.fr/"
     },
     {
       "name": "Parrot",
       "reference": "",
-      "logo": "https://cyve.github.io/images/references/parrot.jpg",
+      "logo": "images/references/parrot.jpg",
 	  "website": "https://www.parrot.com/"
     },
     {
       "name": "Altim",
       "reference": "",
-      "logo": "https://cyve.github.io/images/references/altim.jpg",
+      "logo": "images/references/altim.jpg",
 	  "website": "https://www.altim-consulting.com/"
     },
     {
       "name": "Muzrs",
       "reference": "",
-      "logo": "https://cyve.github.io/images/references/muzrs.jpg",
+      "logo": "images/references/muzrs.jpg",
 	  "website": "http://www.muzrs.com/"
     },
     {
       "name": "Le RIF",
       "reference": "",
-      "logo": "https://cyve.github.io/images/references/lerif.jpg",
+      "logo": "images/references/lerif.jpg",
 	  "website": "https://www.lerif.org/"
     },
     {
       "name": "Le CRY",
       "reference": "",
-      "logo": "https://cyve.github.io/images/references/lecry.jpg",
+      "logo": "images/references/lecry.jpg",
 	  "website": "http://www.lecry.com/"
     }
   ]
