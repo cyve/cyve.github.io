@@ -35,8 +35,7 @@ header { position:relative; z-index:1; display:flex; justify-content:center; ali
 header div { margin:0 30px; }
 header div > img { width:160px; height:160px; border:5px solid #FFF; border-radius:80px; }
 header div > p { font-size:1.2em; }
-header div > p > span { background-color: #000; }
-header .top-link { position:absolute; bottom:0; left:50%; }
+header .top-link { position:absolute; bottom:0; left:50%; transform:translate(-50%, 0); }
 
 h2,
 section { max-width:1040px; margin:50px auto; padding:0 20px; }
