@@ -38,10 +38,10 @@
       "website": "http://www.sonducoin.fr",
       "startDate": "2012",
       "endDate": "En cours",
-      "summary": "Le Son du coin est une plateforme de streaming 100% locale dédiée aux artistes indépendants d’Ile-de-France. L’écoute est gratuite et sans publicité audio. L’inscription est accessible aux artistes de tous styles et de tous niveaux. Le Son du coin met l’accent sur la géolocalisation des artistes par ville et sur leurs relations avec les structures locales, afin de faire une suggestion musicale pertinente aux visiteurs. Il permet de créer le lien manquant entre le web et le terrain où évoluent les artistes au quotidien.",
+      "summary": "Le Son du coin est une plateforme de streaming gratuite dédiée aux artistes émergents d’Ile-de-France. Son objectif est de faire la promotion de la scène locale.",
       "highlights": [
         "Développement de la plateforme",
-        "Stratégie et communication"
+        "Stratégie, communication et partenariats"
       ]
     },
     {
@@ -50,7 +50,7 @@
       "website": "http://muzrs.com",
       "startDate": "2015",
       "endDate": "En cours",
-      "summary": "Muzrs est une plateforme collaborative qui met en relation des musiciens indépendants avec des professionnels (graphiqtes, réalisateurs, scénographes, webdesigner, etc.)",
+      "summary": "Muzrs est une plateforme collaborative qui met en relation des musiciens indépendants avec des professionnels (graphistes, réalisateurs, scénographes, webdesigner, etc.)",
       "highlights": [
         "Développement d'une version bêta avec Drupal, puis conception de la plateforme avec Symfony 2",
         "Architecture logicielle et conception technique"
@@ -337,6 +337,12 @@
       "reference": "",
       "logo": "images/references/lecry.jpg",
 	  "website": "http://www.lecry.com/"
+    },
+    {
+      "name": "Le Son du coin",
+      "reference": "",
+      "logo": "images/references/sonducoin.jpg",
+	  "website": "http://www.sonducoin.fr/"
     }
   ]
 }
