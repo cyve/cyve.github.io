@@ -303,12 +303,6 @@
 	  "website": "http://www.smile.fr/"
     },
     {
-      "name": "Cisco",
-      "reference": "",
-      "logo": "images/references/cisco.jpg",
-	  "website": "http://www.cisco.fr/"
-    },
-    {
       "name": "Parrot",
       "reference": "",
       "logo": "images/references/parrot.jpg",
@@ -319,6 +313,12 @@
       "reference": "",
       "logo": "images/references/altim.jpg",
 	  "website": "https://www.altim-consulting.com/"
+    },
+    {
+      "name": "Cisco",
+      "reference": "",
+      "logo": "images/references/cisco.jpg",
+	  "website": "http://www.cisco.fr/"
     },
     {
       "name": "Muzrs",
