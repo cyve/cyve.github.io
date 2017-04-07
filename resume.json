@@ -5,7 +5,7 @@
     "picture": "https://avatars1.githubusercontent.com/u/3588995",
     "email": "cyril [AT] cyrilwebdesign.com",
     "website": "http://www.cyrilwebdesign.com",
-    "summary": "Je suis ingénieur web full stack freelance basé en Ile-de-France. Lors de mes précédentes missions, j'ai eu l'occasion de développer des applications web multimédia, de concevoir des outils de gestion, et de travailler avec des CMS. Je recherche des missions de développement web de courte durée (6 mois maximum), car je souhaite consacrer du temps à mes projets parallèles.",
+    "summary": "Je suis ingénieur web full stack freelance basé en Ile-de-France. Je m'intéresse aux technologies multimédia et à l'industrie musicale. Je recherche des missions de développement ou d'architecture web de courte durée (6 mois/1 an max), car je souhaite consacrer du temps à mes projets parallèles.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -33,38 +33,28 @@
   },
   "work": [
     {
-      "company": "Le Son du coin",
-      "position": "Fondateur / développeur lead",
-      "website": "http://www.sonducoin.fr",
-      "startDate": "2012",
-      "endDate": "En cours",
-      "summary": "Le Son du coin est une plateforme de streaming gratuite dédiée aux artistes émergents d’Ile-de-France. Son objectif est de faire la promotion de la scène locale.",
-      "highlights": [
-        "Développement de la plateforme",
-        "Stratégie, communication et partenariats"
-      ]
-    },
-    {
       "company": "Muzrs",
-      "position": "Développeur lead",
+      "position": "Développeur lead (CTO)",
       "website": "http://muzrs.com",
-      "startDate": "2015",
-      "endDate": "En cours",
-      "summary": "Muzrs est une plateforme collaborative qui met en relation des musiciens indépendants avec des professionnels (graphistes, réalisateurs, scénographes, webdesigner, etc.)",
+      "startDate": "2016",
+      "endDate": "2016",
+      "summary": "Conception et développement d'une plateforme web de mise en relation professionnelle pour musiciens indépendants.",
       "highlights": [
-        "Développement d'une version bêta avec Drupal, puis conception de la plateforme avec Symfony 2",
-        "Architecture logicielle et conception technique"
+        "Symfony 2",
+        "Intégration continue",
+        "Growth hacking"
       ]
     },
     {
       "company": "Bouygues Télécom",
-      "position": "Développeur PHP Symfony 2",
+      "position": "Développeur PHP Symfony",
       "website": "https://www.bouyguestelecom.fr",
       "startDate": "2015",
       "endDate": "2016",
-      "summary": "",
+      "summary": "Développement de l'espace commercial entreprise (devis et collecte de données client).",
       "highlights": [
-        "Développement de l'espace commercial (devis et collecte des données clients entreprise) avec Symfony 2",
+        "Symfony",
+        "SOAP",
         "Méthodologie Agile"
       ]
     },
@@ -74,21 +64,37 @@
       "website": "http://www.cisco.com",
       "startDate": "2014",
       "endDate": "2014",
-      "summary": "",
+      "summary": "Développement d'une API REST hypermedia pour une application de TV connectée.",
       "highlights": [
-        "Développement d'une API REST hypermedia et d'outils de test",
+        "Node.JS",
+        "REST",
         "Méthodologie Agile"
       ]
     },
     {
       "company": "Parrot",
       "position": "Développeur web full stack",
-      "website": "http://www.parrot.com",
+      "website": "https://www.parrot.com",
       "startDate": "2012",
       "endDate": "2013",
-      "summary": "",
+      "summary": "Conception et développement d'une interface web d'affichage de données graphiques.",
       "highlights": [
-        "Conception et développement d'une interface web d'affichage de données"
+        "PHP",
+        "jQuery",
+        "D3.js"
+      ]
+    },
+    {
+      "company": "Le Son du coin",
+      "position": "Développeur lead (fondateur)",
+      "website": "http://www.sonducoin.fr",
+      "startDate": "2012",
+      "endDate": "En cours",
+      "summary": "Conception et développement d'une plateforme de musique en streaming pour musiciens indépendants.",
+      "highlights": [
+        "Symfony",
+        "REST",
+        "Intégration continue"
       ]
     },
     {
@@ -97,9 +103,10 @@
       "website": "http://www.netgem.com",
       "startDate": "2011",
       "endDate": "2012",
-      "summary": "",
+      "summary": "Développement d'une application multimédia pour set-top box et TV connectée.",
       "highlights": [
-        "Développement d'interface multimédia pour set-top box"
+        "JavaScript",
+        "Set-top box IP"
       ]
     },
     {
@@ -108,17 +115,17 @@
       "website": "http://www.vianeos.com",
       "startDate": "2007",
       "endDate": "2010",
-      "summary": "",
+      "summary": "Conception et développement d'une application multimédia pour set-top box et TV connectée.",
       "highlights": [
-        "Conception et développement d'une interface multimédia pour set-top box",
-        "Recette et déploiement de l'application",
-        "Support client"
+        "PHP",
+        "JavaScript",
+        "Set-top box IP"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Universailles Musiques",
+      "organization": "Universailles Musiques (Versailles, 78)",
       "position": "Président",
       "website": "http://www.universailles.fr",
       "startDate": "2008",
@@ -127,7 +134,7 @@
       "highlights": []
     },
     {
-      "organization": "La Salamandre",
+      "organization": "La Salamandre (Chaville, 92)",
       "position": "Vice-président",
       "website": "http://www.mjcdelavallee.fr",
       "startDate": "2008",
@@ -203,8 +210,9 @@
       "name": "Développement backend",
       "level": "",
       "keywords": [
+		"Architecture web",
 		"PHP",
-        "Symfony 2",
+        "Symfony",
         "MySQL",
 		"Node.JS",
 		"REST"
@@ -218,7 +226,8 @@
         "jQuery",
         "HTML",
         "CSS",
-        "Bootstrap"
+        "Bootstrap",
+        "Performances web"
       ]
     },
     {
@@ -226,7 +235,7 @@
       "level": "",
       "keywords": [
         "LAMP",
-        "Intégration/déploiement continu",
+        "Intégration continue",
 		"Git"
       ]
     },
@@ -252,9 +261,9 @@
       "name": "Streaming/IPTV",
       "level": "",
       "keywords": [
-        "Set-top box",
-        "Gateway IP",
-		"VoD"
+        "Set-top box Amino/Xavi",
+        "Serveurs Anevia",
+		"Protocoles de vidéo sur IP"
       ]
     }
   ],
@@ -272,21 +281,31 @@
     {
       "name": "Musique",
       "keywords": [
+        "Concerts/festivals",
         "Industrie musicale",
-        "Concerts/festivals"
+        "Scène locale",
+        "Rock"
       ]
     },
     {
       "name": "Entreprenariat",
-      "keywords": []
+      "keywords": [
+        "Startup"
+      ]
     },
     {
       "name": "Jeux de rôle",
-      "keywords": []
+      "keywords": [
+        "Donjons et dragons"
+      ]
     },
     {
       "name": "Multimédia numérique",
-      "keywords": []
+      "keywords": [
+        "Web",
+        "IPTV",
+        "Streaming"
+      ]
     }
   ],
   "references": [
