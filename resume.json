@@ -40,7 +40,7 @@
       "endDate": "2016",
       "summary": "Conception et développement d'une plateforme web de mise en relation professionnelle pour musiciens indépendants.",
       "highlights": [
-        "Symfony 2",
+        "Symfony",
         "Intégration continue",
         "Growth hacking"
       ]
@@ -152,7 +152,7 @@
       "endDate": "2007",
       "gpa": "",
       "courses": [
-        "Informatique embarquée",
+        "Systèmes embarqués",
         "Audiovisuel et médias numériques",
         "Biométrie"
       ]
