@@ -19,10 +19,11 @@ Je suis ingénieur web full stack freelance basé en Ile-de-France. Je m&#x27;in
 ## Work
 
 ### Développeur lead (CTO), [Muzrs](http://muzrs.com)
-##### 2016 - 2016
+##### 2016
 * Symfony
 * Intégration continue
 * Growth hacking
+
 Conception et développement d&#x27;une plateforme web de mise en relation professionnelle pour musiciens indépendants.
 
 ### Développeur PHP Symfony, [Bouygues Télécom](https://www.bouyguestelecom.fr)
@@ -30,13 +31,15 @@ Conception et développement d&#x27;une plateforme web de mise en relation profe
 * Symfony
 * SOAP
 * Méthodologie Agile
+
 Développement de l&#x27;espace commercial entreprise (devis et collecte de données client).
 
 ### Développeur Node.js, [Cisco](http://www.cisco.com)
-##### 2014 - 2014
+##### 2014
 * Node.JS
 * REST
 * Méthodologie Agile
+
 Développement d&#x27;une API REST hypermedia pour une application de TV connectée.
 
 ### Développeur web full stack, [Parrot](https://www.parrot.com)
@@ -44,6 +47,7 @@ Développement d&#x27;une API REST hypermedia pour une application de TV connect
 * PHP
 * jQuery
 * D3.js
+
 Conception et développement d&#x27;une interface web d&#x27;affichage de données graphiques.
 
 ### Développeur lead (fondateur), [Le Son du coin](http://www.sonducoin.fr)
@@ -51,12 +55,14 @@ Conception et développement d&#x27;une interface web d&#x27;affichage de donné
 * Symfony
 * REST
 * Intégration continue
+
 Conception et développement d&#x27;une plateforme de musique en streaming pour musiciens indépendants.
 
 ### Développeur JavaScript, [Netgem](http://www.netgem.com)
 ##### 2011 - 2012
 * JavaScript
 * Set-top box IP
+
 Développement d&#x27;une application multimédia pour set-top box et TV connectée.
 
 ### Développeur web fullstack, [Vianeos](http://www.vianeos.com)
@@ -64,6 +70,7 @@ Développement d&#x27;une application multimédia pour set-top box et TV connect
 * PHP
 * JavaScript
 * Set-top box IP
+
 Conception et développement d&#x27;une application multimédia pour set-top box et TV connectée.
 
 ## Volunteer
@@ -78,25 +85,25 @@ Salle de concerts associative à Chaville (92), studios de répétition, accompa
 
 ## Education
 
-### Ecole Centrale d’Electronique (Paris) in Ingénieur en systèmes embarqués
+### Ecole Centrale d’Electronique (Paris) - Ingénieur en systèmes embarqués
 ##### 2004 - 2007
 * Systèmes embarqués
 * Audiovisuel et médias numériques
 * Biométrie
 
-### University of California, Irvine (USA) in Global Management and Manufacturing Program
+### University of California, Irvine (USA) - Global Management and Manufacturing Program
 ##### 2006 - 2006
 
-### Conservatoire national des arts et métiers (Paris) in UV Génie Logiciel (GLG105E)
+### Conservatoire national des arts et métiers (Paris) - UV Génie Logiciel (GLG105E)
 ##### 2006 - 2006
 
-### Université Paris-Sud 11 (Orsay, 91) - Equivalence (CPGE) in DEUG MIAS
+### Université Paris-Sud 11 (Orsay, 91) - DEUG MIAS (Equivalence CPGE)
 ##### 2002 - 2004
 
-### Lycée Jules Ferry (Versailles, 78) - Maths sup/spé in CPGE PT
+### Lycée Jules Ferry (Versailles, 78) - CPGE PT (Maths sup/spé)
 ##### 2002 - 2004
 
-### Lycée Vilgénis (Massy, 91) - option Sciences de l’Ingénieur in Baccalauréat Scientifique
+### Lycée Vilgénis (Massy, 91) - Baccalauréat Scientifique option Sciences de l’Ingénieur
 ##### 1999 - 2002
 
 ## Skills
@@ -109,7 +116,7 @@ Salle de concerts associative à Chaville (92), studios de répétition, accompa
 
 ## Languages
 * Français
-* Technique in Anglais
+* Anglais technique
 
 ## Interests
 * Musique (Concerts/festivals, Industrie musicale, Scène locale, Rock)
@@ -118,12 +125,12 @@ Salle de concerts associative à Chaville (92), studios de répétition, accompa
 * Multimédia numérique (Web, IPTV, Streaming)
 
 ## References
-> -- <cite>Bouygues Telecom</cite>
-> -- <cite>Smile</cite>
-> -- <cite>Parrot</cite>
-> -- <cite>Altim</cite>
-> -- <cite>Cisco</cite>
-> -- <cite>Muzrs</cite>
-> -- <cite>Le RIF</cite>
-> -- <cite>Le CRY</cite>
-> -- <cite>Le Son du coin</cite>
+* Bouygues Telecom
+* Smile
+* Parrot
+* Altim
+* Cisco
+* Muzrs
+* Le RIF
+* Le CRY
+* Le Son du coin
