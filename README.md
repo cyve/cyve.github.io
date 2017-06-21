@@ -14,52 +14,65 @@ Country: Ile-de-France
 [Codepen](https://codepen.io/cyve/)
 
 ## Summary
-Je suis ingénieur web full stack freelance basé en Ile-de-France. Lors de mes précédentes missions, j&#x27;ai eu l&#x27;occasion de développer des applications web multimédia, de concevoir des outils de gestion, et de travailler avec des CMS. Je recherche des missions de développement web de courte durée (6 mois maximum), car je souhaite consacrer du temps à mes projets parallèles.
+Je suis ingénieur web full stack freelance basé en Ile-de-France. Je m&#x27;intéresse aux technologies multimédia et à l&#x27;industrie musicale. Je recherche des missions de développement ou d&#x27;architecture web de courte durée (6 mois/1 an max), car je souhaite consacrer du temps à mes projets parallèles.
 
 ## Work
 
-### Fondateur / développeur lead, [Le Son du coin](http://www.sonducoin.fr)
-##### 2012 - En cours
-* Développement de la plateforme
-* Stratégie et communication
-Le Son du coin est une plateforme de streaming 100% locale dédiée aux artistes indépendants d’Ile-de-France. L’écoute est gratuite et sans publicité audio. L’inscription est accessible aux artistes de tous styles et de tous niveaux. Le Son du coin met l’accent sur la géolocalisation des artistes par ville et sur leurs relations avec les structures locales, afin de faire une suggestion musicale pertinente aux visiteurs. Il permet de créer le lien manquant entre le web et le terrain où évoluent les artistes au quotidien.
+### Développeur lead (CTO), [Muzrs](http://muzrs.com)
+##### 2016 - 2016
+* Symfony
+* Intégration continue
+* Growth hacking
+Conception et développement d&#x27;une plateforme web de mise en relation professionnelle pour musiciens indépendants.
 
-### Développeur lead, [Muzrs](http://muzrs.com)
-##### 2015 - En cours
-* Développement de la plateforme avec Drupal
-Muzrs est une plateforme collaborative musicale.
-
-### Développeur PHP Symfony 2, [Bouygues Télécom](https://www.bouyguestelecom.fr)
+### Développeur PHP Symfony, [Bouygues Télécom](https://www.bouyguestelecom.fr)
 ##### 2015 - 2016
-* Développement de l&#x27;espace commercial (devis et collecte des données clients entreprise) avec Symfony 2
+* Symfony
+* SOAP
 * Méthodologie Agile
+Développement de l&#x27;espace commercial entreprise (devis et collecte de données client).
 
 ### Développeur Node.js, [Cisco](http://www.cisco.com)
 ##### 2014 - 2014
-* Développement d&#x27;une API REST hypermedia et d&#x27;outils de test
+* Node.JS
+* REST
 * Méthodologie Agile
+Développement d&#x27;une API REST hypermedia pour une application de TV connectée.
 
-### Développeur web full stack, [Parrot](http://www.parrot.com)
+### Développeur web full stack, [Parrot](https://www.parrot.com)
 ##### 2012 - 2013
-* Conception et développement d&#x27;une interface web de gestion de base de données
+* PHP
+* jQuery
+* D3.js
+Conception et développement d&#x27;une interface web d&#x27;affichage de données graphiques.
+
+### Développeur lead (fondateur), [Le Son du coin](http://www.sonducoin.fr)
+##### 2012 - En cours
+* Symfony
+* REST
+* Intégration continue
+Conception et développement d&#x27;une plateforme de musique en streaming pour musiciens indépendants.
 
 ### Développeur JavaScript, [Netgem](http://www.netgem.com)
 ##### 2011 - 2012
-* Développement d&#x27;interface multimédia pour set-top box
+* JavaScript
+* Set-top box IP
+Développement d&#x27;une application multimédia pour set-top box et TV connectée.
 
 ### Développeur web fullstack, [Vianeos](http://www.vianeos.com)
 ##### 2007 - 2010
-* Conception et développement d&#x27;une interface multimédia pour set-top box
-* Recette et déploiement de l&#x27;application
-* Support client
+* PHP
+* JavaScript
+* Set-top box IP
+Conception et développement d&#x27;une application multimédia pour set-top box et TV connectée.
 
 ## Volunteer
 
-### Président, [Universailles Musiques](http://www.universailles.fr)
+### Président, [Universailles Musiques (Versailles, 78)](http://www.universailles.fr)
 ##### 2008 - 2015
 Organisation de concerts/festivals à Versailles (78) et accompagnement d&#x27;artistes émergents.
 
-### Vice-président, [La Salamandre](http://www.mjcdelavallee.fr)
+### Vice-président, [La Salamandre (Chaville, 92)](http://www.mjcdelavallee.fr)
 ##### 2008 - 2015
 Salle de concerts associative à Chaville (92), studios de répétition, accompagnement d&#x27;artiste émergents.
 
@@ -67,7 +80,7 @@ Salle de concerts associative à Chaville (92), studios de répétition, accompa
 
 ### Ecole Centrale d’Electronique (Paris) in Ingénieur en systèmes embarqués
 ##### 2004 - 2007
-* Informatique embarquée
+* Systèmes embarqués
 * Audiovisuel et médias numériques
 * Biométrie
 
@@ -87,29 +100,30 @@ Salle de concerts associative à Chaville (92), studios de répétition, accompa
 ##### 1999 - 2002
 
 ## Skills
-* Développement backend (PHP, Symfony 2, MySQL, Node.JS, REST)
-* Développement frontend (JavaScript, jQuery, HTML, CSS, Bootstrap)
-* Environnement technique (LAMP, Intégration/déploiement continu, Git)
+* Développement backend (Architecture web, PHP, Symfony, MySQL, Node.JS, REST)
+* Développement frontend (JavaScript, jQuery, HTML, CSS, Bootstrap, Performances web)
+* Environnement technique (LAMP, Intégration continue, Git)
 * Gestion de projet (Méthodologie agile, Jira, Redmine)
 * Webdesign (Wordpress, Responsive design, SEO)
-* Streaming/IPTV (Set-top box, Gateway IP, VoD)
+* Streaming/IPTV (Set-top box Amino/Xavi, Serveurs Anevia, Protocoles de vidéo sur IP)
 
 ## Languages
 * Français
 * Technique in Anglais
 
 ## Interests
-* Musique (Industrie musicale, Concerts/festivals)
-* Entreprenariat
-* Jeux de rôle
-* Multimédia numérique
+* Musique (Concerts/festivals, Industrie musicale, Scène locale, Rock)
+* Entreprenariat (Startup)
+* Jeux de rôle (Donjons et dragons)
+* Multimédia numérique (Web, IPTV, Streaming)
 
 ## References
 > -- <cite>Bouygues Telecom</cite>
 > -- <cite>Smile</cite>
-> -- <cite>Cisco</cite>
 > -- <cite>Parrot</cite>
 > -- <cite>Altim</cite>
+> -- <cite>Cisco</cite>
 > -- <cite>Muzrs</cite>
 > -- <cite>Le RIF</cite>
 > -- <cite>Le CRY</cite>
+> -- <cite>Le Son du coin</cite>
