@@ -33,6 +33,19 @@
   },
   "work": [
     {
+      "company": "Hellocasa",
+      "position": "Développeur PHP Symfony",
+      "website": "https://hellocasa.fr",
+      "startDate": "2017",
+      "endDate": "2017",
+      "summary": "Développement d'une API REST.",
+      "highlights": [
+        "Symfony 3",
+        "REST",
+        "DDD"
+      ]
+    },
+    {
       "company": "Muzrs",
       "position": "Développeur lead (CTO)",
       "website": "http://muzrs.com",
@@ -40,7 +53,7 @@
       "endDate": "2016",
       "summary": "Conception et développement d'une plateforme web de mise en relation professionnelle pour musiciens indépendants.",
       "highlights": [
-        "Symfony",
+        "Symfony 2",
         "Intégration continue",
         "Growth hacking"
       ]
@@ -53,7 +66,7 @@
       "endDate": "2016",
       "summary": "Développement de l'espace commercial entreprise (devis et collecte de données client).",
       "highlights": [
-        "Symfony",
+        "Symfony 2",
         "SOAP",
         "Méthodologie Agile"
       ]
@@ -92,7 +105,7 @@
       "endDate": "En cours",
       "summary": "Conception et développement d'une plateforme de musique en streaming pour musiciens indépendants.",
       "highlights": [
-        "Symfony",
+        "Symfony 2/3",
         "REST",
         "Intégration continue"
       ]
@@ -309,6 +322,18 @@
     }
   ],
   "references": [
+    {
+      "name": "Hellocasa",
+      "reference": "",
+      "logo": "images/references/hellocasa.jpg",
+	  "website": "http://hellocasa.fr/"
+    },
+    {
+      "name": "Sensio Labs",
+      "reference": "",
+      "logo": "images/references/sensiolabs.jpg",
+	  "website": "https://sensiolabs.com/"
+    },
     {
       "name": "Bouygues Telecom",
       "reference": "",
