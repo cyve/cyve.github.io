@@ -33,15 +33,15 @@
   },
   "work": [
     {
-      "company": "Hellocasa",
+      "company": "Hellocasa / IZI solutions",
       "position": "Développeur PHP Symfony",
-      "website": "https://hellocasa.fr",
+      "website": "https://izi-by-edf.fr",
       "startDate": "2017",
-      "endDate": "2017",
+      "endDate": "2019",
       "summary": "Développement d'une API REST.",
       "highlights": [
         "Symfony 3",
-        "REST",
+        "API Platform",
         "DDD"
       ]
     },
@@ -105,8 +105,8 @@
       "endDate": "En cours",
       "summary": "Conception et développement d'une plateforme de musique en streaming pour musiciens indépendants.",
       "highlights": [
-        "Symfony 2/3",
-        "REST",
+        "Symfony 2/3/4",
+        "API Platform",
         "Intégration continue"
       ]
     },
@@ -223,12 +223,12 @@
       "name": "Développement backend",
       "level": "",
       "keywords": [
-		"Architecture web",
-		"PHP",
+        "Architecture web",
+        "PHP",
         "Symfony",
+        "API Platform",
         "MySQL",
-		"Node.JS",
-		"REST"
+        "Node.JS"
       ]
     },
     {
@@ -248,8 +248,9 @@
       "level": "",
       "keywords": [
         "LAMP",
+        "Docker",
         "Intégration continue",
-		"Git"
+        "Git"
       ]
     },
     {
@@ -258,6 +259,7 @@
       "keywords": [
         "Méthodologie agile",
         "Jira",
+        "Gitlab",
         "Redmine"
       ]
     },
@@ -276,7 +278,7 @@
       "keywords": [
         "Set-top box Amino/Xavi",
         "Serveurs Anevia",
-		"Protocoles de vidéo sur IP"
+        "Protocoles de vidéo sur IP"
       ]
     }
   ],
@@ -323,70 +325,76 @@
   ],
   "references": [
     {
+      "name": "IZI Solutions",
+      "reference": "",
+      "logo": "images/references/izi-by-edf.jpg",
+      "website": "http://izi-by-edf.fr/"
+    },
+    {
       "name": "Hellocasa",
       "reference": "",
       "logo": "images/references/hellocasa.jpg",
-	  "website": "http://hellocasa.fr/"
+      "website": "http://hellocasa.fr/"
     },
     {
       "name": "Sensio Labs",
       "reference": "",
       "logo": "images/references/sensiolabs.jpg",
-	  "website": "https://sensiolabs.com/"
+      "website": "https://sensiolabs.com/"
     },
     {
       "name": "Bouygues Telecom",
       "reference": "",
       "logo": "images/references/bouygues-telecom.jpg",
-	  "website": "http://www.bouyguestelecom.fr/"
+      "website": "http://www.bouyguestelecom.fr/"
     },
     {
       "name": "Smile",
       "reference": "",
       "logo": "images/references/smile.jpg",
-	  "website": "http://www.smile.fr/"
+      "website": "http://www.smile.fr/"
     },
     {
       "name": "Parrot",
       "reference": "",
       "logo": "images/references/parrot.jpg",
-	  "website": "https://www.parrot.com/"
+      "website": "https://www.parrot.com/"
     },
     {
       "name": "Altim",
       "reference": "",
       "logo": "images/references/altim.jpg",
-	  "website": "https://www.altim-consulting.com/"
+      "website": "https://www.altim-consulting.com/"
     },
     {
       "name": "Cisco",
       "reference": "",
       "logo": "images/references/cisco.jpg",
-	  "website": "http://www.cisco.fr/"
+      "website": "http://www.cisco.fr/"
     },
     {
       "name": "Muzrs",
       "reference": "",
       "logo": "images/references/muzrs.jpg",
-	  "website": "http://www.muzrs.com/"
+      "website": "http://www.muzrs.com/"
     },
     {
       "name": "Le RIF",
       "reference": "",
       "logo": "images/references/lerif.jpg",
-	  "website": "https://www.lerif.org/"
+      "website": "https://www.lerif.org/"
     },
     {
       "name": "Le CRY",
       "reference": "",
       "logo": "images/references/lecry.jpg",
-	  "website": "http://www.lecry.com/"
+      "website": "http://www.lecry.com/"
     },
     {
       "name": "Le Son du coin",
       "reference": "",
       "logo": "images/references/sonducoin.jpg",
-	  "website": "http://www.sonducoin.fr/"
+      "website": "http://www.sonducoin.fr/"
     }
   ]
 }
