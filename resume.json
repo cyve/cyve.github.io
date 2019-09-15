@@ -236,9 +236,8 @@
       "name": "Développement backend",
       "level": "",
       "keywords": [
-        "Architecture web",
         "PHP",
-        "Symfony",
+        "Symfony 3/4",
         "API Platform",
         "MySQL",
         "Node.JS"
@@ -252,8 +251,16 @@
         "jQuery",
         "HTML",
         "CSS",
-        "Bootstrap",
-        "Performances web"
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Architecture logicielle",
+      "level": "",
+      "keywords": [
+        "DDD",
+        "Micro-services",
+        "Architecture modulaire"
       ]
     },
     {
@@ -262,8 +269,7 @@
       "keywords": [
         "LAMP",
         "Docker",
-        "Intégration continue",
-        "Git"
+        "CI/CD"
       ]
     },
     {
@@ -273,7 +279,7 @@
         "Méthodologie agile",
         "Jira",
         "Gitlab",
-        "Redmine"
+        "Bitbucket"
       ]
     },
     {
@@ -282,7 +288,8 @@
       "keywords": [
         "Wordpress",
         "Responsive design",
-        "SEO"
+        "SEO",
+        "Accessibilité"
       ]
     },
     {
@@ -291,7 +298,9 @@
       "keywords": [
         "Set-top box Amino/Xavi",
         "Serveurs Anevia",
-        "Protocoles de vidéo sur IP"
+        "Protocoles de vidéo sur IP (UDP/IGMP/RTSP)",
+        "Encodage audio",
+        "API audio HTML5"
       ]
     }
   ],
