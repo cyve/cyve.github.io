@@ -71,7 +71,7 @@ h4 { margin:1rem 0; }
 .skill:nth-child(7) .disk i:before { content:'\f008'; font-family:FontAwesome; }
 
 .references { display:flex; flex-wrap:wrap; justify-content:center; }
-.reference { margin:0 25px 50px 25px; }
+.reference { margin:0 24px 50px 24px; }
 .reference img { width:auto; height:60px;
 	-webkit-filter: grayscale(1);
 	   -moz-filter: grayscale(1);

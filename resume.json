@@ -33,12 +33,25 @@
   },
   "work": [
     {
+      "company": "Worldia",
+      "position": "Développeur PHP Symfony",
+      "website": "https://worldia.com",
+      "startDate": "2019",
+      "endDate": "2019",
+      "summary": "Développement d'une API REST pour une application e-commerce.",
+      "highlights": [
+        "Symfony 4",
+        "API Platform",
+        "DDD"
+      ]
+    },
+    {
       "company": "GestionR",
       "position": "Développeur lead (fondateur)",
       "website": "https://gestionr.io",
       "startDate": "2019",
       "endDate": "2019",
-      "summary": "Développement d'un SAAS de gestion dédié aux associations, clubs, MJC et centres de formation (adhésions, planning d'activités, facturation, etc.)",
+      "summary": "Développement d'un SAAS de gestion dédié aux associations, clubs, MJC et centres de formation (adhésions, planning d'activités, inscriptions, facturation)",
       "highlights": [
         "Symfony 4",
         "API Platform",
@@ -51,7 +64,7 @@
       "website": "https://izi-by-edf.fr",
       "startDate": "2017",
       "endDate": "2019",
-      "summary": "Développement d'une API REST.",
+      "summary": "Développement d'une API REST pour une application e-commerce.",
       "highlights": [
         "Symfony 3",
         "API Platform",
@@ -141,7 +154,7 @@
       "website": "http://www.vianeos.com",
       "startDate": "2007",
       "endDate": "2010",
-      "summary": "Conception et développement d'une application multimédia pour set-top box et TV connectée.",
+      "summary": "Développement d'une application multimédia pour set-top box et TV connectée.",
       "highlights": [
         "PHP",
         "JavaScript",
@@ -347,6 +360,12 @@
   ],
   "references": [
     {
+      "name": "Worldia",
+      "reference": "",
+      "logo": "images/references/worldia.jpg",
+      "website": "https://worldia.com"
+    },
+    {
       "name": "IZI Solutions",
       "reference": "",
       "logo": "images/references/izi-by-edf.jpg",
@@ -401,12 +420,6 @@
       "website": "http://muzrs.com"
     },
     {
-      "name": "GestionR",
-      "reference": "",
-      "logo": "images/references/gestionr.jpg",
-      "website": "https://gestionr.io"
-    },
-    {
       "name": "Le RIF",
       "reference": "",
       "logo": "images/references/lerif.jpg",
@@ -423,6 +436,12 @@
       "reference": "",
       "logo": "images/references/sonducoin.jpg",
       "website": "https://www.sonducoin.fr"
+    },
+    {
+      "name": "GestionR",
+      "reference": "",
+      "logo": "images/references/gestionr.jpg",
+      "website": "https://gestionr.io"
     }
   ]
 }
