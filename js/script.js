@@ -1,8 +1,3 @@
-/**
- * @author Cyril Vermande
- * @copyright All right reserved 2017 Cyril Vermande
- */
-
 (function(){
 	$.getJSON('resume.json', function(response){
 		/* summary */
