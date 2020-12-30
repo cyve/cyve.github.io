@@ -37,20 +37,20 @@
       "position": "Développeur PHP Symfony",
       "website": "https://worldia.com",
       "startDate": "2019",
-      "endDate": "2019",
+      "endDate": "2020",
       "summary": "Développement d'une API REST pour une application e-commerce.",
       "highlights": [
-        "Symfony 4",
+        "Symfony 5",
         "API Platform",
         "DDD"
       ]
     },
     {
       "company": "GestionR",
-      "position": "Développeur lead (fondateur)",
+      "position": "Fondateur",
       "website": "https://gestionr.io",
       "startDate": "2019",
-      "endDate": "2019",
+      "endDate": "En cours",
       "summary": "Développement d'un SAAS de gestion dédié aux associations, clubs, MJC et centres de formation (adhésions, planning d'activités, inscriptions, facturation)",
       "highlights": [
         "Symfony 4",
@@ -73,7 +73,7 @@
     },
     {
       "company": "Muzrs",
-      "position": "Développeur lead (CTO)",
+      "position": "Développeur web fullstack / responsable technique",
       "website": "http://muzrs.com",
       "startDate": "2016",
       "endDate": "2016",
@@ -125,13 +125,13 @@
     },
     {
       "company": "Le Son du coin",
-      "position": "Développeur lead (fondateur)",
+      "position": "Fondateur",
       "website": "http://www.sonducoin.fr",
       "startDate": "2012",
       "endDate": "En cours",
       "summary": "Conception et développement d'une plateforme de musique en streaming pour musiciens indépendants.",
       "highlights": [
-        "Symfony 2/3/4",
+        "Symfony 5",
         "API Platform",
         "Intégration continue"
       ]
@@ -250,7 +250,7 @@
       "level": "",
       "keywords": [
         "PHP",
-        "Symfony 3/4",
+        "Symfony 4/5",
         "API Platform",
         "MySQL",
         "Node.JS"
@@ -271,8 +271,8 @@
       "name": "Architecture logicielle",
       "level": "",
       "keywords": [
+	    "API REST/HTTP",
         "DDD",
-        "Micro-services",
         "Architecture modulaire"
       ]
     },
@@ -311,7 +311,7 @@
       "keywords": [
         "Set-top box Amino/Xavi",
         "Serveurs Anevia",
-        "Protocoles de vidéo sur IP (UDP/IGMP/RTSP)",
+        "Protocoles VoIP (UDP/IGMP/RTSP)",
         "Encodage audio",
         "API audio HTML5"
       ]
@@ -440,8 +440,7 @@
     {
       "name": "GestionR",
       "reference": "",
-      "logo": "images/references/gestionr.jpg",
-      "website": "https://gestionr.io"
+      "logo": "images/references/gestionr.jpg"
     }
   ]
 }
