@@ -1,12 +1,12 @@
 (function(){
-	$.getJSON('resume.json', function(response){
+    fetch('resume.json').then(function (response) {
+        return (response.ok) ? response.json() : Promise.reject(response);
+    }).then(function(response) {
 		/* summary */
-		$('#summary').prepend(response.basics.summary);
+		document.getElementById('summary').innerText = response.basics.summary;
 		
 		/* experience */
-		var experiences = '',
-			experienceTemplate = $('#experience-template').html();
-		
+		var experiences = '', experienceTemplate = document.getElementById('experience-template').innerHTML;
 		response.work.sort(function(a,b){
 			return a.startDate < b.startDate;
 		});
@@ -27,8 +27,7 @@
 				})
 			;
 		}
-		
-		$('#experience').append(experiences);
+        document.getElementById('experience').innerHTML = experiences;
 		
 		/* education */
 		var education = experienceTemplate
@@ -45,13 +44,10 @@
 				return html;
 			})
 		;
-		
-		$('#education').append(education);
+        document.getElementById('education').innerHTML = education;
 		
 		/* skills */
-		var skills = '',
-			skillTemplate = $('#skill-template').html();
-		
+		var skills = '', skillTemplate = document.getElementById('skill-template').innerHTML;
 		for(var i in response.skills){
 			skills += skillTemplate
 				.replace('{{ name }}', response.skills[i].name)
@@ -64,13 +60,10 @@
 				})
 			;
 		}
-		
-		$('#skills').append(skills);
+        document.getElementById('skills').innerHTML = skills;
 		
 		/* references */
-		var references = '',
-			referenceTemplate = $('#reference-template').html();
-		
+		var references = '', referenceTemplate = document.getElementById('reference-template').innerHTML;
 		for(var i in response.references){
 			references += referenceTemplate
 				.replace('{{ name }}', response.references[i].name)
@@ -78,11 +71,9 @@
 				.replace('{{ website }}', response.references[i].website)
 			;
 		}
-		
-		$('#references').append(references);
+        document.getElementById('references').innerHTML = references;
 	});
-	
-	$('[data-email=email]').attr('href', function(){
-		return ['mail', 'to', ':', 'cyril', '@', 'cyrilwebdesign', '.', 'com'].join('');
-	});
-}())
+
+	/* email */
+	document.getElementById('email').setAttribute('href', ['mail', 'to', ':', 'cyril', '@', 'cyrilwebdesign', '.', 'com'].join(''));
+}());
