@@ -1,27 +1,11 @@
-/**
- * @author Cyril Vermande
- * @copyright All right reserved 2017 Cyril Vermande
- */
-
-@font-face { font-family:OpenSans; src:url(../fonts/OpenSans-Regular.ttf); }
-
 * { -webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box; }
 html { height:100%; font-size:.625em; font-size:calc(1em * .625); }
-body { height:100%; margin:0; font-family:Arial; font-size:1.5em;/*15px*/ color:#333; }
+body { height:100%; margin:0; font-family:Arial, sans-serif; font-size:1.5em;/*15px*/ color:#333; }
 img { max-width:100%; height:auto; border:0; }
 table,tr,td { padding:0; margin:0; border-spacing:0; }
-hr { clear:both; height:0px; margin:10px 0; border-width:0; border-top:1px solid #CCC; }
+hr { clear:both; height:0; margin:10px 0; border-width:0; border-top:1px solid #CCC; }
 a,a:visited { color:inherit; }
 [role=button] { cursor:pointer; }
-@media (min-aspect-ratio:16/9){
-	video { height:300%; top:-100%; }
-}
-@media (max-aspect-ratio:16/9){
-	video { width:300%; left:-100%; }
-}
-@supports (object-fit:cover){
-	video { width:100%; height:100%; object-fit:cover; }
-}
 
 .cover { position:fixed; z-index:-1; top:0; width:100%; height:100%; background-color:#000; background-image:url(../images/background.jpg); background-position:center; background-size:cover; }
 .page { padding-top:1px; background:#FFF; }
@@ -42,7 +26,8 @@ section { max-width:1040px; margin:50px auto; padding:0 20px; }
 h3,
 h4 { margin:1rem 0; }
 
-.summary { font-size:1.2em; }
+.summary { font-size:1.2em; line-height: 1.5em; }
+.summary .contact { margin-top: 40px; text-align: center; }
 
 .bloc { position:relative; margin:0 0 20px 80px; padding:0 20px; border:3px solid #CCC; border-radius:6px; background-color:#FFF; }
 .bloc:before,
@@ -54,7 +39,7 @@ h4 { margin:1rem 0; }
 .bloc a { text-decoration:none; }
 .bloc ul { padding:0; list-style:none; }
 .bloc ul > li { color:#666; }
-.bloc ul > li:before { content:'\f054'; margin-right:.5em; font-family:FontAwesome; color:#999; }
+.bloc ul > li > i { margin-right:.25em; color:#999; }
 .bloc .disk { position:absolute; z-index:1; left:-80px; top:0; width:60px; height:60px; background-color:#666; outline:5px solid #FFF; border-radius:30px; color:#FFF; text-align:center; line-height:60px; font-weight:bold; font-size:1.2em; }
 
 .experience p:before { content:''; position:absolute; top:0; left:-52px; width:3px; height:120%; background:#CCC; }
@@ -62,31 +47,18 @@ h4 { margin:1rem 0; }
 
 .skills { display:flex; flex-wrap:wrap; }
 .skill { width:calc(50% - 120px); margin-right:40px; }
-.skill:nth-child(1) .disk i:before { content:'\f085'; font-family:FontAwesome; }
-.skill:nth-child(2) .disk i:before { content:'\f121'; font-family:FontAwesome; }
-.skill:nth-child(3) .disk i:before { content:'\f1b3'; font-family:FontAwesome; }
-.skill:nth-child(4) .disk i:before { content:'\f233'; font-family:FontAwesome; }
-.skill:nth-child(5) .disk i:before { content:'\f08d'; font-family:FontAwesome; }
-.skill:nth-child(6) .disk i:before { content:'\f040'; font-family:FontAwesome; }
-.skill:nth-child(7) .disk i:before { content:'\f008'; font-family:FontAwesome; }
+.skill:nth-child(1) .disk i:before { content:'\f085'; }
+.skill:nth-child(2) .disk i:before { content:'\f121'; }
+.skill:nth-child(3) .disk i:before { content:'\f1b3'; }
+.skill:nth-child(4) .disk i:before { content:'\f233'; }
+.skill:nth-child(5) .disk i:before { content:'\f08d'; }
+.skill:nth-child(6) .disk i:before { content:'\f040'; }
+.skill:nth-child(7) .disk i:before { content:'\f008'; }
 
 .references { display:flex; flex-wrap:wrap; justify-content:center; }
 .reference { margin:0 24px 50px 24px; }
-.reference img { width:auto; height:60px;
-	-webkit-filter: grayscale(1);
-	   -moz-filter: grayscale(1);
-		-ms-filter: grayscale(1);
-		 -o-filter: grayscale(1);
-			filter: grayscale(1);
-}
-.reference img:hover
-{
-	-webkit-filter: grayscale(0);
-	   -moz-filter: grayscale(0);
-		-ms-filter: grayscale(0);
-		 -o-filter: grayscale(0);
-			filter: grayscale(0);
-}
+.reference img { width:auto; height:60px; filter: grayscale(1); }
+.reference img:hover { filter: grayscale(0); }
 
 footer { padding:1px 0; background-color:#111; text-align:center; color:#CCC; }
 footer > ul { display:flex; justify-content:space-around; max-width:320px; margin:100px auto; padding:0; list-style:none; }

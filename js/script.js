@@ -10,7 +10,6 @@
 		response.work.sort(function(a,b){
 			return a.startDate < b.startDate;
 		});
-		
 		for(var i in response.work){
 			experiences += experienceTemplate
 				.replace('{{ year }}', response.work[i].startDate.replace(/\D*/, ''))
@@ -21,7 +20,7 @@
 				.replace('{{ highlights }}', function(){
 					var html = '';
 					for(var j in response.work[i].highlights){
-						html += '<li>' + response.work[i].highlights[j] + '</li>';
+						html += '<li><i class="fa fa-chevron-right"></i> ' + response.work[i].highlights[j] + '</li>';
 					}
 					return html;
 				})
@@ -39,7 +38,7 @@
 			.replace('{{ highlights }}', function(){
 				var html = '';
 				for(var j in response.education[0].courses){
-					html += '<li>' + response.education[0].courses[j] + '</li>';
+					html += '<li><i class="fa fa-chevron-right"></i> ' + response.education[0].courses[j] + '</li>';
 				}
 				return html;
 			})
@@ -54,7 +53,7 @@
 				.replace('{{ keywords }}', function(){
 					var html = '';
 					for(var j in response.skills[i].keywords){
-						html += '<li>' + response.skills[i].keywords[j] + '</li>';
+						html += '<li><i class="fa fa-chevron-right"></i> ' + response.skills[i].keywords[j] + '</li>';
 					}
 					return html;
 				})

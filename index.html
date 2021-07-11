@@ -47,7 +47,7 @@
 		<div class="page">
 			<section class="summary">
 				<p id="summary"></p>
-				<p class="center"><a href="#" data-email="email" class="btn"><i class="fa fa-envelope fa-fw"></i> Contactez-moi</a></p>
+				<p class="contact"><a href="#" id="email" class="btn"><i class="fa fa-envelope fa-fw"></i> Contactez-moi</a></p>
 			</section>
 			
 			<div class="bg-fixed" style="background-image:url(images/code.jpg);"></div>
@@ -80,9 +80,9 @@
 			<footer>
 				<ul>
 					<li><a href="#" title="Contactez-moi" data-email="email"><i class="fa fa-envelope fa-lg"></i></a></li>
-					<li><a href="https://www.linkedin.com/in/cyrilvermande/" title="Rejoignez-moi sur LinkedIn" target="_blank"><i class="fa fa-linkedin fa-lg"></i></a></li>
-					<li><a href="https://github.com/cyve/" title="Mes contributions sur Github" target="_blank"><i class="fa fa-github fa-lg"></i></a></li>
-					<li><a href="https://codepen.io/cyve/" title="Mes contributions sur Codepen" target="_blank"><i class="fa fa-codepen fa-lg"></i></a></li>
+					<li><a href="https://www.linkedin.com/in/cyrilvermande/" title="Rejoignez-moi sur LinkedIn" target="_blank" rel="noopener"><i class="fa fa-linkedin fa-lg"></i></a></li>
+					<li><a href="https://github.com/cyve/" title="Mes contributions sur Github" target="_blank" rel="noopener"><i class="fa fa-github fa-lg"></i></a></li>
+					<li><a href="https://codepen.io/cyve/" title="Mes contributions sur Codepen" target="_blank" rel="noopener"><i class="fa fa-codepen fa-lg"></i></a></li>
 				</ul>
 			</footer>
 		</div>
@@ -106,7 +106,7 @@
 		</script>
 		<script id="reference-template" type="text/x-template">
 			<article class="reference">
-				<a href="{{ website }}" target="_blank"><img src="{{ logo }}" alt="{{ name }}" width="60" height="60"></a>
+				<a href="{{ website }}" target="_blank" rel="noopener"><img src="{{ logo }}" alt="{{ name }}" width="60" height="60" loading="lazy"></a>
 			</article>
 		</script>
 	</body>
