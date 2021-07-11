@@ -417,7 +417,7 @@
       "name": "Muzrs",
       "reference": "",
       "logo": "images/references/muzrs.jpg",
-      "website": "http://muzrs.com"
+      "website": "#"
     },
     {
       "name": "Le RIF",
@@ -429,7 +429,7 @@
       "name": "Le CRY",
       "reference": "",
       "logo": "images/references/lecry.jpg",
-      "website": "http://www.lecry.com"
+      "website": "#"
     },
     {
       "name": "Le Son du coin",
@@ -440,7 +440,14 @@
     {
       "name": "GestionR",
       "reference": "",
-      "logo": "images/references/gestionr.jpg"
+      "logo": "images/references/gestionr.jpg",
+      "website": "#"
+    },
+    {
+      "name": "Le Collectif RPM",
+      "reference": "",
+      "logo": "images/references/collectif-rpm.jpg",
+      "website": "https://collectifrpm.org"
     }
   ]
 }
