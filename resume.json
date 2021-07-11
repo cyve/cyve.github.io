@@ -174,7 +174,7 @@
     },
     {
       "organization": "La Salamandre (Chaville, 92)",
-      "position": "Vice-président",
+      "position": "Bénévole",
       "website": "http://www.mjcdelavallee.fr",
       "startDate": "2008",
       "endDate": "2015",
@@ -334,7 +334,7 @@
         "Concerts/festivals",
         "Industrie musicale",
         "Scène locale",
-        "Rock"
+        "Rock/metal/punk"
       ]
     },
     {
@@ -355,6 +355,14 @@
         "Web",
         "IPTV",
         "Streaming"
+      ]
+    },
+    {
+      "name": "Electronique/domotique",
+      "keywords": [
+        "Arduino",
+        "ESP8266",
+        "Raspberry Pi"
       ]
     }
   ],
