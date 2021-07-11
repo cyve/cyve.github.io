@@ -1,32 +1,34 @@
 <!DOCTYPE html>
 <html lang="fr">
 	<head>
-		<title>Cyril Vermandé, développeur web freelance - PHP, JavaScript, HTML, CSS, Symfony, Wordpress</title>
+		<title>Cyril Vermandé, développeur web freelance à Paris/Ile-de-France - PHP/Symfony/API Platform</title>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="format-detection" content="telephone=no">
 		<meta name="apple-mobile-web-app-capable" content="yes">
 		<meta name="apple-mobile-web-app-status-bar-style" content="black">
-		<meta name="description" content="Développeur web full stack freelance à Paris/Ile-de-France - PHP, JavaScript, HTML, CSS, Symfony, Wordpress">
-		<meta name="keywords" content="developpement,developpeur,developer,web,webdesign,php,symfony,wordpress,javascript,html,css,framework">
-		<meta property="fb:app_id" content="154021958084187">
+		<meta name="description" content="Développeur web freelance à Paris/Ile-de-France - PHP/Symfony/API Platform">
 		<meta property="og:site_name" content="Cyril Vermandé">
 		<meta property="og:type" content="website">
 		<meta property="og:title" content="Cyril Vermandé, développeur web freelance">
-		<meta property="og:description" content="Développeur web full stack freelance à Paris/Ile-de-France - PHP, JavaScript, HTML, CSS, Symfony, Wordpress">
+		<meta property="og:description" content="Développeur web freelance à Paris/Ile-de-France - PHP/Symfony/API Platform">
 		<meta property="og:image" content="https://cyve.github.io/images/code.jpg">
 		<meta property="og:url" content="https://cyve.github.io">
 		<meta property="og:locale" content="fr_FR">
 		<meta name="twitter:card" content="summary">
 		<meta name="twitter:title" content="Cyril Vermandé, développeur web freelance">
-		<meta name="twitter:description" content="Développeur web full stack freelance à Paris/Ile-de-France - PHP, JavaScript, HTML, CSS, Symfony, Wordpress">
+		<meta name="twitter:description" content="Développeur web freelance à Paris/Ile-de-France - PHP/Symfony/API Platform">
 		<meta name="twitter:image" content="https://cyve.github.io/images/code.jpg">
 		<meta name="twitter:url" content="https://cyve.github.io">
-		
 		<link rel="icon shortcut" href="images/favicon.png" type="image/png">
 		<link rel="stylesheet" href="css/style.css">
 		<link rel="stylesheet" href="css/font-awesome.min.css">
+        <link rel="preload" href="images/background.jpg" as="image">
+        <link rel="preload" href="images/code.jpg" as="image">
+        <link rel="preload" href="images/devices.jpg" as="image">
+        <link rel="preload" href="images/meeting.jpg" as="image">
+        <script type="text/javascript" src="js/script.js" async></script>
 	</head>
 	<body>
 			<div class="cover"></div>
@@ -86,13 +88,12 @@
 				</ul>
 			</footer>
 		</div>
-		
-		<script type="text/javascript" src="js/script.js"></script>
+
 		<script id="experience-template" type="text/x-template">
 			<article class="bloc experience">
 				<span class="disk">{{ year }}</span>
-				<h3>{{ position }}</h3>
-				<h4><a href="{{ website }}">{{ company }}</a></h4>
+				<h3><a href="{{ website }}" target="_blank" rel="noopener">{{ company }}</a></h3>
+				<h4>{{ position }}</h4>
 				<p>{{ summary }}</p>
 				<ul>{{ highlights }}</ul>
 			</article>
