@@ -382,7 +382,7 @@
       "name": "Hellocasa",
       "reference": "",
       "logo": "images/references/hellocasa.jpg",
-      "website": "https://hellocasa.fr"
+      "website": "https://web.archive.org/web/20170731090637/https://hellocasa.fr/"
     },
     {
       "name": "Sensio Labs",
@@ -424,7 +424,7 @@
       "name": "Muzrs",
       "reference": "",
       "logo": "images/references/muzrs.jpg",
-      "website": "#"
+      "website": "https://web.archive.org/web/20171013011011/http://muzrs.com/"
     },
     {
       "name": "Le RIF",
@@ -436,25 +436,25 @@
       "name": "Le CRY",
       "reference": "",
       "logo": "images/references/lecry.jpg",
-      "website": "#"
-    },
-    {
-      "name": "Le Son du coin",
-      "reference": "",
-      "logo": "images/references/sonducoin.jpg",
-      "website": "https://www.sonducoin.fr"
-    },
-    {
-      "name": "GestionR",
-      "reference": "",
-      "logo": "images/references/gestionr.jpg",
-      "website": "#"
+      "website": "https://web.archive.org/web/20180214040830/http://lecry.com/"
     },
     {
       "name": "Le Collectif RPM",
       "reference": "",
       "logo": "images/references/collectif-rpm.jpg",
       "website": "https://collectifrpm.org"
+    },
+    {
+      "name": "MJC de la vallée",
+      "reference": "",
+      "logo": "images/references/mjc-de-la-vallee.jpg",
+      "website": "https://www.mjcdelavallee.fr"
+    },
+    {
+      "name": "Le Son du coin",
+      "reference": "",
+      "logo": "images/references/sonducoin.jpg",
+      "website": "https://www.sonducoin.fr"
     }
   ]
 }
