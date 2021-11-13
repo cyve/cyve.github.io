@@ -23,7 +23,7 @@
         for(var i in response.work) {
             var newExperience = document.importNode(experienceTemplate.content, true);
             newExperience.querySelector('article .disk').innerText = response.work[i].startDate.replace(/\D*/, '');
-            newExperience.querySelector('article h3 a').innerText = response.work[i].company;
+            newExperience.querySelector('article h3').innerText = response.work[i].company;
             newExperience.querySelector('article h4').innerText = response.work[i].position;
             newExperience.querySelector('article p').innerText = response.work[i].summary;
             for(var j in response.work[i].highlights){
