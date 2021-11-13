@@ -58,7 +58,4 @@
             document.getElementById('references').appendChild(newReference);
         }
 	});
-
-	/* email */
-	document.getElementById('email').setAttribute('href', ['mail', 'to', ':', 'cyril', '@', 'cyrilwebdesign', '.', 'com'].join(''));
 }());
