@@ -33,7 +33,32 @@
   "work": [
     {
       "company": "Worldia",
-      "position": "Développeur PHP Symfony",
+      "position": "Tech lead PHP/Symfony",
+      "website": "https://worldia.com",
+      "startDate": "2022",
+      "endDate": "En cours",
+      "summary": "Développement de microservices et intégration d'API externes.",
+      "highlights": [
+        "Symfony 6",
+        "Microservice",
+        "RPC"
+      ]
+    },
+    {
+      "company": "Les Artistes Pintes",
+      "position": "Développeur fullstack (co-fondateur)",
+      "website": "https://www.lesartistespintes.fr",
+      "startDate": "2021",
+      "endDate": "En cours",
+      "summary": "Développement d'une marketplace de bières artisanales",
+      "highlights": [
+        "Symfony 6",
+        "Architecture modulaire"
+      ]
+    },
+    {
+      "company": "Worldia",
+      "position": "Développeur PHP/Symfony",
       "website": "https://worldia.com",
       "startDate": "2019",
       "endDate": "2020",
@@ -46,20 +71,20 @@
     },
     {
       "company": "GestionR",
-      "position": "Fondateur",
+      "position": "Développeur fullstack (fondateur)",
       "website": "#",
       "startDate": "2019",
       "endDate": "En cours",
       "summary": "Développement d'un SAAS de gestion dédié aux associations, clubs, MJC et centres de formation (adhésions, planning d'activités, inscriptions, facturation)",
       "highlights": [
         "Symfony 4",
-        "API Platform",
+        "EasyAdmin",
         "Architecture modulaire"
       ]
     },
     {
       "company": "Hellocasa / IZI solutions",
-      "position": "Développeur PHP Symfony",
+      "position": "Développeur PHP/Symfony",
       "website": "https://izi-by-edf.fr",
       "startDate": "2017",
       "endDate": "2019",
@@ -72,28 +97,27 @@
     },
     {
       "company": "Muzrs",
-      "position": "Développeur web fullstack / responsable technique",
+      "position": "Développeur fullstack (co-fondateur)",
       "website": "http://muzrs.com",
       "startDate": "2016",
       "endDate": "2016",
       "summary": "Conception et développement d'une plateforme web de mise en relation professionnelle pour musiciens indépendants.",
       "highlights": [
         "Symfony 2",
-        "Intégration continue",
+        "Drupal",
         "Growth hacking"
       ]
     },
     {
       "company": "Bouygues Télécom",
-      "position": "Développeur PHP Symfony",
+      "position": "Développeur PHP/Symfony",
       "website": "https://www.bouyguestelecom.fr",
       "startDate": "2015",
       "endDate": "2016",
       "summary": "Développement de l'espace commercial entreprise (devis et collecte de données client).",
       "highlights": [
         "Symfony 2",
-        "SOAP",
-        "Méthodologie Agile"
+        "SOAP"
       ]
     },
     {
@@ -105,13 +129,12 @@
       "summary": "Développement d'une API REST hypermedia pour une application de TV connectée.",
       "highlights": [
         "Node.JS",
-        "REST",
-        "Méthodologie Agile"
+        "REST"
       ]
     },
     {
       "company": "Parrot",
-      "position": "Développeur web full stack",
+      "position": "Développeur fullstack",
       "website": "https://www.parrot.com",
       "startDate": "2012",
       "endDate": "2013",
@@ -124,10 +147,10 @@
     },
     {
       "company": "Le Son du coin",
-      "position": "Fondateur",
+      "position": "Développeur fullstack (fondateur)",
       "website": "http://www.sonducoin.fr",
       "startDate": "2012",
-      "endDate": "En cours",
+      "endDate": "2022",
       "summary": "Conception et développement d'une plateforme de musique en streaming pour musiciens indépendants.",
       "highlights": [
         "Symfony 5",
@@ -149,7 +172,7 @@
     },
     {
       "company": "Vianeos",
-      "position": "Développeur web fullstack",
+      "position": "Développeur fullstack",
       "website": "http://www.vianeos.com",
       "startDate": "2007",
       "endDate": "2010",
@@ -162,6 +185,24 @@
     }
   ],
   "volunteer": [
+    {
+      "organization": "Symfony",
+      "position": "Contributeur open-source",
+      "website": "https://symfony.com",
+      "startDate": "2022",
+      "endDate": "En cours",
+      "summary": "Symfony is a PHP framework for web and console applications and a set of reusable PHP components.",
+      "highlights": []
+    },
+    {
+      "organization": "Collectif Conception Numérique Responsable",
+      "position": "Contributeur open-source",
+      "website": "https://collectif.greenit.fr",
+      "startDate": "2021",
+      "endDate": "En cours",
+      "summary": "Le Collectif Conception Numérique Responsable (CNumR) regroupe des experts et des organisations privées et publiques en faveur d'une conception responsable des services numériques.",
+      "highlights": []
+    },
     {
       "organization": "Universailles Musiques (Versailles, 78)",
       "position": "Président",
@@ -249,7 +290,7 @@
       "level": "",
       "keywords": [
         "PHP",
-        "Symfony 4/5",
+        "Symfony",
         "API Platform",
         "MySQL",
         "Node.JS"
@@ -261,16 +302,16 @@
       "keywords": [
         "JavaScript",
         "jQuery",
-        "HTML",
-        "CSS",
-        "Bootstrap"
+        "Bootstrap",
+        "Responsive design",
+        "Vue.js"
       ]
     },
     {
       "name": "Architecture logicielle",
       "level": "",
       "keywords": [
-	    "API REST/HTTP",
+        "REST/HTTP",
         "DDD",
         "Architecture modulaire"
       ]
@@ -281,27 +322,17 @@
       "keywords": [
         "LAMP",
         "Docker",
-        "CI/CD"
+        "Gitlab CI/CD"
       ]
     },
     {
-      "name": "Gestion de projet",
-      "level": "",
-      "keywords": [
-        "Méthodologie agile",
-        "Jira",
-        "Gitlab",
-        "Bitbucket"
-      ]
-    },
-    {
-      "name": "Webdesign",
+      "name": "Divers webdesign",
       "level": "",
       "keywords": [
         "Wordpress",
-        "Responsive design",
         "SEO",
-        "Accessibilité"
+        "Accessibilité",
+        "Eco-conception"
       ]
     },
     {
@@ -311,8 +342,16 @@
         "Set-top box Amino/Xavi",
         "Serveurs Anevia",
         "Protocoles VoIP (UDP/IGMP/RTSP)",
-        "Encodage audio",
         "API audio HTML5"
+      ]
+    },
+    {
+      "name": "Gestion de projet",
+      "level": "",
+      "keywords": [
+        "Scrum/Kanban",
+        "Jira/Confluence",
+        "Gitlab/Bitbucket"
       ]
     }
   ],
