@@ -52,8 +52,7 @@ h4 { margin:1rem 0; }
 .skill:nth-child(3) .disk i:before { content:'\f1b3'; }
 .skill:nth-child(4) .disk i:before { content:'\f233'; }
 .skill:nth-child(5) .disk i:before { content:'\f08d'; }
-.skill:nth-child(6) .disk i:before { content:'\f040'; }
-.skill:nth-child(7) .disk i:before { content:'\f008'; }
+.skill:nth-child(6) .disk i:before { content:'\f008'; }
 
 .references { display:flex; flex-wrap:wrap; justify-content:center; }
 .reference { margin:0 24px 50px 24px; }

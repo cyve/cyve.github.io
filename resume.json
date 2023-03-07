@@ -40,7 +40,7 @@
       "summary": "Développement de microservices et intégration d'API externes.",
       "highlights": [
         "Symfony 6",
-        "Microservice",
+        "Microservices",
         "RPC"
       ]
     },
@@ -53,7 +53,7 @@
       "summary": "Développement d'une marketplace de bières artisanales",
       "highlights": [
         "Symfony 6",
-        "Architecture modulaire"
+        "Monolithe modulaire"
       ]
     },
     {
@@ -79,7 +79,7 @@
       "highlights": [
         "Symfony 4",
         "EasyAdmin",
-        "Architecture modulaire"
+        "Monolithe modulaire"
       ]
     },
     {
@@ -104,8 +104,7 @@
       "summary": "Conception et développement d'une plateforme web de mise en relation professionnelle pour musiciens indépendants.",
       "highlights": [
         "Symfony 2",
-        "Drupal",
-        "Growth hacking"
+        "Drupal"
       ]
     },
     {
@@ -117,7 +116,7 @@
       "summary": "Développement de l'espace commercial entreprise (devis et collecte de données client).",
       "highlights": [
         "Symfony 2",
-        "SOAP"
+        "SOA"
       ]
     },
     {
@@ -155,7 +154,8 @@
       "highlights": [
         "Symfony 5",
         "API Platform",
-        "Intégration continue"
+        "Vue.js",
+        "Growth hacking"
       ]
     },
     {
@@ -292,7 +292,6 @@
         "PHP",
         "Symfony",
         "API Platform",
-        "MySQL",
         "Node.JS"
       ]
     },
@@ -303,7 +302,6 @@
         "JavaScript",
         "jQuery",
         "Bootstrap",
-        "Responsive design",
         "Vue.js"
       ]
     },
@@ -311,27 +309,29 @@
       "name": "Architecture logicielle",
       "level": "",
       "keywords": [
-        "REST/HTTP",
+        "HTTP/REST",
         "DDD",
-        "Architecture modulaire"
+        "Monolithe modulaire",
+        "SOA/microservices"
       ]
     },
     {
       "name": "Environnement technique",
       "level": "",
       "keywords": [
+        "Git",
         "LAMP",
         "Docker",
-        "Gitlab CI/CD"
+        "CI/CD (Gitlab/Bitbucket)"
       ]
     },
     {
-      "name": "Divers webdesign",
+      "name": "Webdesign",
       "level": "",
       "keywords": [
-        "Wordpress",
         "SEO",
         "Accessibilité",
+        "Responsive design",
         "Eco-conception"
       ]
     },
@@ -343,15 +343,6 @@
         "Serveurs Anevia",
         "Protocoles VoIP (UDP/IGMP/RTSP)",
         "API audio HTML5"
-      ]
-    },
-    {
-      "name": "Gestion de projet",
-      "level": "",
-      "keywords": [
-        "Scrum/Kanban",
-        "Jira/Confluence",
-        "Gitlab/Bitbucket"
       ]
     }
   ],
