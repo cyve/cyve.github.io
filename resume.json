@@ -1,34 +1,10 @@
 {
   "basics": {
-    "name": "Cyril Vermandé",
+    "name": "Cyril Vmd",
     "label": "Développeur web freelance",
     "picture": "https://avatars1.githubusercontent.com/u/3588995",
     "website": "https://cyve.github.io",
-    "summary": "Je suis ingénieur web indépendant basé en Ile-de-France. Mon domaine d'expertise tourne autour de PHP, Symfony, API Platform, et des technologies multimédia. Je recherche des missions de développement ou d'architecture web de courte durée (6 mois/1 an), car je souhaite consacrer du temps à mes projets parallèles.",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Versailles",
-      "countryCode": "FR",
-      "region": "Ile-de-France"
-    },
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "cyrilvermande",
-        "url": "https://www.linkedin.com/in/cyrilvermande"
-      },
-      {
-        "network": "Github",
-        "username": "cyve",
-        "url": "https://github.com/cyve"
-      },
-      {
-        "network": "Codepen",
-        "username": "cyve",
-        "url": "https://codepen.io/cyve/"
-      }
-    ]
+    "summary": "Je suis ingénieur web indépendant basé en Ile-de-France. Mon domaine d'expertise tourne autour de PHP, Symfony, API Platform, et des technologies multimédia. Je recherche des missions de développement ou d'architecture web de courte durée (6 mois/1 an), car je souhaite consacrer du temps à mes projets parallèles."
   },
   "work": [
     {
@@ -202,24 +178,6 @@
       "endDate": "En cours",
       "summary": "Le Collectif Conception Numérique Responsable (CNumR) regroupe des experts et des organisations privées et publiques en faveur d'une conception responsable des services numériques.",
       "highlights": []
-    },
-    {
-      "organization": "Universailles Musiques (Versailles, 78)",
-      "position": "Président",
-      "website": "http://www.universailles.fr",
-      "startDate": "2008",
-      "endDate": "2015",
-      "summary": "Organisation de concerts/festivals à Versailles (78) et accompagnement d'artistes émergents.",
-      "highlights": []
-    },
-    {
-      "organization": "La Salamandre (Chaville, 92)",
-      "position": "Bénévole",
-      "website": "http://www.mjcdelavallee.fr",
-      "startDate": "2008",
-      "endDate": "2015",
-      "summary": "Salle de concerts associative à Chaville (92), studios de répétition, accompagnement d'artiste émergents.",
-      "highlights": []
     }
   ],
   "education": [
@@ -235,51 +193,6 @@
         "Audiovisuel et médias numériques",
         "Biométrie"
       ]
-    },
-    {
-      "institution": "University of California, Irvine (USA)",
-      "area": "Global Management and Manufacturing Program",
-      "studyType": "",
-      "startDate": "2006",
-      "endDate": "2006",
-      "gpa": "",
-      "courses": []
-    },
-    {
-      "institution": "Conservatoire national des arts et métiers (Paris)",
-      "area": "UV Génie Logiciel (GLG105E)",
-      "studyType": "",
-      "startDate": "2006",
-      "endDate": "2006",
-      "gpa": "",
-      "courses": []
-    },
-    {
-      "institution": "Université Paris-Sud 11 (Orsay, 91)",
-      "area": "DEUG MIAS",
-      "studyType": "Equivalence (CPGE)",
-      "startDate": "2002",
-      "endDate": "2004",
-      "gpa": "",
-      "courses": []
-    },
-    {
-      "institution": "Lycée Jules Ferry (Versailles, 78)",
-      "area": "CPGE PT",
-      "studyType": "Maths sup/spé",
-      "startDate": "2002",
-      "endDate": "2004",
-      "gpa": "",
-      "courses": []
-    },
-    {
-      "institution": "Lycée Vilgénis (Massy, 91)",
-      "area": "Baccalauréat Scientifique",
-      "studyType": "option Sciences de l’Ingénieur",
-      "startDate": "1999",
-      "endDate": "2002",
-      "gpa": "",
-      "courses": []
     }
   ],
   "awards": [],
@@ -356,45 +269,7 @@
       "fluency": "Technical"
     }
   ],
-  "interests": [
-    {
-      "name": "Musique",
-      "keywords": [
-        "Concerts/festivals",
-        "Industrie musicale",
-        "Scène locale",
-        "Rock/metal/punk"
-      ]
-    },
-    {
-      "name": "Entreprenariat",
-      "keywords": [
-        "Startup"
-      ]
-    },
-    {
-      "name": "Jeux de rôle",
-      "keywords": [
-        "Donjons et dragons"
-      ]
-    },
-    {
-      "name": "Multimédia numérique",
-      "keywords": [
-        "Web",
-        "IPTV",
-        "Streaming"
-      ]
-    },
-    {
-      "name": "Electronique/domotique",
-      "keywords": [
-        "Arduino",
-        "ESP8266",
-        "Raspberry Pi"
-      ]
-    }
-  ],
+  "interests": [],
   "references": [
     {
       "name": "Worldia",
