@@ -4,7 +4,7 @@
     "label": "Développeur web freelance",
     "picture": "https://avatars1.githubusercontent.com/u/3588995",
     "website": "https://cyve.github.io",
-    "summary": "Fort de 15 ans d'expérience dans le développement d'applications web PHP/Symfony, je propose mon expertise en architecture, en qualité logicielle et en bonnes pratiques de développement. Les projets entrepreneuriaux que je développe en parallèle m'apportent une vision pragmatique et orientée métier des problèmes. Membre du collectif Green IT, je suis intéressé par la performance web et l'éco-conception logicielle.",
+    "summary": "Fort de 15 ans d'expérience dans le développement d'applications web PHP/Symfony, je propose mon expertise en architecture, en qualité logicielle et en bonnes pratiques de développement. Les projets entrepreneuriaux que je développe en parallèle m'apportent une vision pragmatique et orientée métier des problèmes. Membre du collectif Green IT, je m'intéresse par la performance web et l'éco-conception logicielle.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -254,7 +254,7 @@
       "name": "IA",
       "level": "",
       "keywords": [
-        "Développement agentic",
+        "Développement agentique",
         "Spec Driven Development",
         "Ollama"
       ]
