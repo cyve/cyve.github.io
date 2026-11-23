@@ -33,7 +33,23 @@
             }
             document.getElementById('experience').appendChild(newExperience);
         }
-		
+
+		/* entrepreneurship */
+        var entrepreneurshipTemplate = document.getElementById('entrepreneurship-template');
+        for(var i in response.entrepreneurship) {
+            var newProject = document.importNode(entrepreneurshipTemplate.content, true);
+            newProject.querySelector('article .disk').innerText = response.entrepreneurship[i].startDate.replace(/\D*/, '');
+            newProject.querySelector('article h3').innerText = response.entrepreneurship[i].company;
+            newProject.querySelector('article h4').innerText = response.entrepreneurship[i].position;
+            newProject.querySelector('article p').innerText = response.entrepreneurship[i].summary;
+            for(var j in response.entrepreneurship[i].highlights){
+                var newKeyword = document.createElement('li');
+                newKeyword.innerHTML = '<i class="fa fa-chevron-right"></i> ' + response.entrepreneurship[i].highlights[j] ;
+                newProject.querySelector('article ul').append(newKeyword);
+            }
+            document.getElementById('entrepreneurship').appendChild(newProject);
+        }
+
 		/* education */
         var newEducation = document.importNode(experienceTemplate.content, true);
         newEducation.querySelector('article .disk').innerText = response.education[0].endDate.replace(/\D*/, '');

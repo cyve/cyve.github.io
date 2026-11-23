@@ -4,63 +4,62 @@
     "label": "Développeur web freelance",
     "picture": "https://avatars1.githubusercontent.com/u/3588995",
     "website": "https://cyve.github.io",
-    "summary": "Je suis ingénieur web indépendant basé en Ile-de-France. Mon domaine d'expertise tourne autour de PHP, Symfony, API Platform, et des technologies multimédia. Je recherche des missions de développement ou d'architecture web de courte durée (6 mois/1 an), car je souhaite consacrer du temps à mes projets parallèles."
+    "summary": "Fort de 15 ans d'expérience dans le développement d'applications web PHP/Symfony, je propose mon expertise en architecture, en qualité logicielle et en bonnes pratiques de développement. Les projets entrepreneuriaux que je développe en parallèle m'apportent une vision pragmatique et orientée métier des problèmes. Membre du collectif Green IT, je suis intéressé par la performance web et l'éco-conception logicielle.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Paris",
+      "countryCode": "FR",
+      "region": "Ile-de-France"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "cyrilvermande",
+        "url": "https://www.linkedin.com/in/cyrilvermande"
+      },
+      {
+        "network": "Github",
+        "username": "cyve",
+        "url": "https://github.com/cyve"
+      },
+      {
+        "network": "Codepen",
+        "username": "cyve",
+        "url": "https://codepen.io/cyve/"
+      }
+    ]
   },
   "work": [
     {
+      "company": "SensioLabs",
+      "position": "Tech lead Symfony / contributeur individuel",
+      "website": "https://sensiolabs.com",
+      "startDate": "2025",
+      "endDate": "2026",
+      "summary": "Architecture logicielle. Développement d'APIs REST et de microservices. Mise en place de méthodes de développement agentique. Audits de sécurité et de performances.",
+      "highlights": [
+		"Agentic coding / Spec Driven Development",
+        "Symfony 7",
+        "Microservices"
+      ]
+    },
+    {
       "company": "Worldia",
-      "position": "Tech lead PHP/Symfony",
+      "position": "Tech lead Symfony (pour Sensiolabs)",
       "website": "https://worldia.com",
-      "startDate": "2022",
-      "endDate": "En cours",
-      "summary": "Développement de microservices et intégration d'API externes.",
+      "startDate": "2019",
+      "endDate": "2024",
+      "summary": "Migration d'une architecture monolith en microservices. Création d'un modèle de données global. Intégration d'API externes. Mise en place de bonnes pratiques de qualité logicielle.",
       "highlights": [
         "Symfony 6",
         "Microservices",
-        "RPC"
-      ]
-    },
-    {
-      "company": "Les Artistes Pintes",
-      "position": "Développeur fullstack (co-fondateur)",
-      "website": "https://www.lesartistespintes.fr",
-      "startDate": "2021",
-      "endDate": "En cours",
-      "summary": "Développement d'une marketplace de bières artisanales",
-      "highlights": [
-        "Symfony 6",
-        "Monolithe modulaire"
-      ]
-    },
-    {
-      "company": "Worldia",
-      "position": "Développeur PHP/Symfony",
-      "website": "https://worldia.com",
-      "startDate": "2019",
-      "endDate": "2020",
-      "summary": "Développement d'une API REST pour une application e-commerce.",
-      "highlights": [
-        "Symfony 5",
-        "API Platform",
         "DDD"
       ]
     },
     {
-      "company": "GestionR",
-      "position": "Développeur fullstack (fondateur)",
-      "website": "#",
-      "startDate": "2019",
-      "endDate": "En cours",
-      "summary": "Développement d'un SAAS de gestion dédié aux associations, clubs, MJC et centres de formation (adhésions, planning d'activités, inscriptions, facturation)",
-      "highlights": [
-        "Symfony 4",
-        "EasyAdmin",
-        "Monolithe modulaire"
-      ]
-    },
-    {
       "company": "Hellocasa / IZI solutions",
-      "position": "Développeur PHP/Symfony",
+      "position": "Développeur Symfony (pour Sensiolabs)",
       "website": "https://izi-by-edf.fr",
       "startDate": "2017",
       "endDate": "2019",
@@ -72,20 +71,8 @@
       ]
     },
     {
-      "company": "Muzrs",
-      "position": "Développeur fullstack (co-fondateur)",
-      "website": "http://muzrs.com",
-      "startDate": "2016",
-      "endDate": "2016",
-      "summary": "Conception et développement d'une plateforme web de mise en relation professionnelle pour musiciens indépendants.",
-      "highlights": [
-        "Symfony 2",
-        "Drupal"
-      ]
-    },
-    {
       "company": "Bouygues Télécom",
-      "position": "Développeur PHP/Symfony",
+      "position": "Développeur Symfony (pour Smile)",
       "website": "https://www.bouyguestelecom.fr",
       "startDate": "2015",
       "endDate": "2016",
@@ -97,7 +84,7 @@
     },
     {
       "company": "Cisco",
-      "position": "Développeur Node.js",
+      "position": "Développeur Node.js (pour Altim)",
       "website": "http://www.cisco.com",
       "startDate": "2014",
       "endDate": "2014",
@@ -109,7 +96,7 @@
     },
     {
       "company": "Parrot",
-      "position": "Développeur fullstack",
+      "position": "Développeur fullstack (pour Altim)",
       "website": "https://www.parrot.com",
       "startDate": "2012",
       "endDate": "2013",
@@ -118,20 +105,6 @@
         "PHP",
         "jQuery",
         "D3.js"
-      ]
-    },
-    {
-      "company": "Le Son du coin",
-      "position": "Développeur fullstack (fondateur)",
-      "website": "http://www.sonducoin.fr",
-      "startDate": "2012",
-      "endDate": "2022",
-      "summary": "Conception et développement d'une plateforme de musique en streaming pour musiciens indépendants.",
-      "highlights": [
-        "Symfony 5",
-        "API Platform",
-        "Vue.js",
-        "Growth hacking"
       ]
     },
     {
@@ -160,24 +133,58 @@
       ]
     }
   ],
-  "volunteer": [
+  "entrepreneurship": [
     {
-      "organization": "Symfony",
-      "position": "Contributeur open-source",
-      "website": "https://symfony.com",
-      "startDate": "2022",
-      "endDate": "En cours",
-      "summary": "Symfony is a PHP framework for web and console applications and a set of reusable PHP components.",
-      "highlights": []
-    },
-    {
-      "organization": "Collectif Conception Numérique Responsable",
-      "position": "Contributeur open-source",
-      "website": "https://collectif.greenit.fr",
+      "company": "Les Artistes Pintes",
+      "position": "Ingénieur co-fondateur",
+      "website": "#",
       "startDate": "2021",
       "endDate": "En cours",
-      "summary": "Le Collectif Conception Numérique Responsable (CNumR) regroupe des experts et des organisations privées et publiques en faveur d'une conception responsable des services numériques.",
-      "highlights": []
+      "summary": "Développement d'une marketplace de bières artisanales",
+      "highlights": [
+          "Symfony 7",
+          "Monolithe modulaire",
+		  "Mangopay"
+      ]
+    },
+    {
+      "company": "GestionR",
+      "position": "Ingénieur fondateur",
+      "website": "#",
+      "startDate": "2019",
+      "endDate": "2022",
+      "summary": "Développement d'un SAAS de gestion dédié aux associations, clubs, MJC et centres de formation (adhésions, planning d'activités, inscriptions, facturation)",
+      "highlights": [
+        "Symfony 4",
+        "EasyAdmin",
+        "Monolithe modulaire"
+      ]
+    },
+    {
+      "company": "Muzrs",
+      "position": "Développeur fullstack (co-fondateur)",
+      "website": "#",
+      "startDate": "2016",
+      "endDate": "2016",
+      "summary": "Conception et développement d'une plateforme web de mise en relation professionnelle pour musiciens indépendants.",
+      "highlights": [
+        "Symfony 2",
+        "Drupal"
+      ]
+    },
+    {
+      "company": "Le Son du coin",
+      "position": "Ingénieur fondateur",
+      "website": "#",
+      "startDate": "2012",
+      "endDate": "2022",
+      "summary": "Conception et développement d'une plateforme de musique en streaming pour musiciens indépendants.",
+      "highlights": [
+        "Symfony 5",
+        "API Platform",
+        "Vue.js",
+        "Growth hacking"
+      ]
     }
   ],
   "education": [
@@ -189,14 +196,12 @@
       "endDate": "2007",
       "gpa": "",
       "courses": [
-        "Systèmes embarqués",
-        "Audiovisuel et médias numériques",
-        "Biométrie"
+        "Systèmes embarqués et média numériques",
+        "UV Génie logiciel (CNAM, Paris)",
+		"Global management and manufacturing program (University of California, Irvine)"
       ]
     }
   ],
-  "awards": [],
-  "publications": [],
   "skills": [
     {
       "name": "Développement backend",
@@ -204,8 +209,7 @@
       "keywords": [
         "PHP",
         "Symfony",
-        "API Platform",
-        "Node.JS"
+        "API Platform"
       ]
     },
     {
@@ -213,63 +217,49 @@
       "level": "",
       "keywords": [
         "JavaScript",
-        "jQuery",
         "Bootstrap",
-        "Vue.js"
+        "HTMX"
       ]
     },
     {
       "name": "Architecture logicielle",
       "level": "",
       "keywords": [
-        "HTTP/REST",
+        "REST",
         "DDD",
         "Monolithe modulaire",
-        "SOA/microservices"
+        "Microservices"
       ]
     },
     {
-      "name": "Environnement technique",
+      "name": "DevOps",
       "level": "",
       "keywords": [
-        "Git",
-        "LAMP",
+        "Gitlab CI/CD",
+		"OpenTelemetry",
         "Docker",
-        "CI/CD (Gitlab/Bitbucket)"
+        "LAMP"
       ]
     },
     {
-      "name": "Webdesign",
+      "name": "Divers webdesign",
       "level": "",
       "keywords": [
         "SEO",
         "Accessibilité",
-        "Responsive design",
         "Eco-conception"
       ]
     },
     {
-      "name": "Streaming/IPTV",
+      "name": "IA",
       "level": "",
       "keywords": [
-        "Set-top box Amino/Xavi",
-        "Serveurs Anevia",
-        "Protocoles VoIP (UDP/IGMP/RTSP)",
-        "API audio HTML5"
+        "Développement agentic",
+        "Spec Driven Development",
+        "Ollama"
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "Français",
-      "fluency": ""
-    },
-    {
-      "language": "Anglais",
-      "fluency": "Technical"
-    }
-  ],
-  "interests": [],
   "references": [
     {
       "name": "Worldia",
@@ -360,6 +350,12 @@
       "reference": "",
       "logo": "images/references/sonducoin.jpg",
       "website": "https://www.sonducoin.fr"
+    },
+    {
+      "name": "Les Artistes Pintes",
+      "reference": "",
+      "logo": "images/references/lesartistespintes.png",
+      "website": "https://lesartistespintes.fr"
     }
   ]
 }

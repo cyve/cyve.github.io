@@ -45,6 +45,9 @@ h4 { margin:1rem 0; }
 .experience p:before { content:''; position:absolute; top:0; left:-52px; width:3px; height:120%; background:#CCC; }
 .experience:last-child p:before { height:0; }
 
+.entrepreneurship p:before { content:''; position:absolute; top:0; left:-52px; width:3px; height:120%; background:#CCC; }
+.entrepreneurship:last-child p:before { height:0; }
+
 .skills { display:flex; flex-wrap:wrap; }
 .skill { width:calc(50% - 120px); margin-right:40px; }
 .skill:nth-child(1) .disk i:before { content:'\f085'; }
@@ -52,7 +55,7 @@ h4 { margin:1rem 0; }
 .skill:nth-child(3) .disk i:before { content:'\f1b3'; }
 .skill:nth-child(4) .disk i:before { content:'\f233'; }
 .skill:nth-child(5) .disk i:before { content:'\f08d'; }
-.skill:nth-child(6) .disk i:before { content:'\f008'; }
+.skill:nth-child(6) .disk i:before { content:'\f0d0'; }
 
 .references { display:flex; flex-wrap:wrap; justify-content:center; }
 .reference { margin:0 24px 50px 24px; }
